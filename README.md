@@ -1,4 +1,4 @@
-# AstroDb
+![windows_2](https://github.com/dildeolupbiten/AstroDb/assets/29302909/65335291-b76c-438e-b73d-75fba65ba8a4)# AstroDb
 
 AstroDb is a C/C++ program whose graphical interface is based on static Qt libraries. It is designed to perform similar tasks of what the Python program, [TkAstroDb](https://github.com/dildeolupbiten/TkAstroDb) does, with higher performance respect to TkAstroDb.
 
@@ -20,15 +20,12 @@ At the end of the analysis process, the results that are related to the selected
 
 ### Linux
 
-![linux_1](https://github.com/dildeolupbiten/dildeolupbiten/assets/29302909/0c70af50-f6cb-4172-bbd9-cafdd5f7194f)
-![linux_2](https://github.com/dildeolupbiten/dildeolupbiten/assets/29302909/dc69ac72-1364-4d31-bf59-15ad5c3af00c)
-![linux_3](https://github.com/dildeolupbiten/dildeolupbiten/assets/29302909/31177b1c-585a-460b-9b01-79436f9a9432)
+![linux_1](https://github.com/dildeolupbiten/AstroDb/assets/29302909/c04d53cc-5994-4818-a52a-b5ccd5142244)
+![linux_2](https://github.com/dildeolupbiten/AstroDb/assets/29302909/9617ea56-45c3-48d3-82d9-cad89cfa6c81)
+![linux_3](https://github.com/dildeolupbiten/AstroDb/assets/29302909/40172313-2971-4cc9-b4e0-323a24d5b1aa)
 
 ### Windows
 
-![windows_1](https://github.com/dildeolupbiten/dildeolupbiten/assets/29302909/d5a09f65-69a8-41e9-805e-aebb2eee1f53)
-![windows_2](https://github.com/dildeolupbiten/dildeolupbiten/assets/29302909/ea297576-a184-4579-8a88-d58a6e5e66c1)
-![windows_3](https://github.com/dildeolupbiten/dildeolupbiten/assets/29302909/1e6ec07e-aae7-4a63-b470-681309184700)
-
-
-
+![windows_1](https://github.com/dildeolupbiten/AstroDb/assets/29302909/6cc1ad9a-88d9-472e-92c5-3d89a06cb064)
+![windows_2](https://github.com/dildeolupbiten/AstroDb/assets/29302909/45ebb160-1fad-4b23-b300-69aa6bd4b1bf)
+![windows_3](https://github.com/dildeolupbiten/AstroDb/assets/29302909/34f37e89-05b8-49bd-9d93-e5f23ab3b385)
