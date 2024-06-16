@@ -1,0 +1,48 @@
+QWidget, QFrame, QDialog {
+	background: #212529;
+	color: #ffffff;
+}
+
+QLabel {
+    color: white;
+}
+
+QPushButton:hover {
+	background: #212529;
+	border: 1px solid #343a40;
+	border-radius: 2px;
+	padding: 5px 10px;
+}
+
+QPushButton {
+	background: #343a40;
+	border: 1px solid #343a40;
+	border-radius: 2px;
+	padding: 5px 10px;
+}
+
+QListWidget {
+	border: none;
+}
+
+#selectTitle {
+	font-size: 20px;
+}
+
+#file {
+	border: 1px solid #343a40;
+	border-radius: 2px;
+}
+
+#comparison {
+	border: none;
+}
+
+#pbar {
+    border: none;
+    text-align: center;
+}
+
+#btn_frame {
+    padding-bottom: 10px;
+}
