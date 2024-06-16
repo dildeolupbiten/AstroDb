@@ -1,4 +1,4 @@
-![windows_2](https://github.com/dildeolupbiten/AstroDb/assets/29302909/65335291-b76c-438e-b73d-75fba65ba8a4)# AstroDb
+# AstroDb
 
 AstroDb is a C/C++ program whose graphical interface is based on static Qt libraries. It is designed to perform similar tasks of what the Python program, [TkAstroDb](https://github.com/dildeolupbiten/TkAstroDb) does, with higher performance respect to TkAstroDb.
 
