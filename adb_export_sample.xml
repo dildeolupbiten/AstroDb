@@ -1,0 +1,1841 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<astrodatabank_export export_format="160715">
+  <timestamp itst="1468569988" user="alois" host="as80.astro.ch">2016-07-15T08:06:28Z</timestamp>
+  <important_notice>Copyright © Astrodienst AG / Astrodatabank: Important notice:
+The data in the optional section research_data (categories, relationships, events) of each data record are made available for astrological research purposes only.
+Publication or distribution of these data is restricted and requires an individual permission by the copyright holder.
+These data must not be included or used in a service which is offered via software, for example on the Internet or via Apps or PC software packages.
+
+The sourcenotes for each entry are written by Astrodatabank editors, and copyright © Astrodienst AG / Astrodatabank.
+The element 'shortbiography' contains the first line of a longer biography text, written by Astrodatabank editors, sometimes containing quoted phrases from Wikipedia. It is under copyright © Astrodienst AG / Astrodatabank, and, where indicated, possibly © Wikipedia. An element 'wikipedia_link' is included with such entries.</important_notice>
+  <adb_entry adb_id="1000">
+    <update_timestamp itst="1355858563">2012-12-18T19:22:43Z</update_timestamp>
+    <public_data>
+      <name>Stuart, Matthew</name>
+      <sflname>Matthew Stuart</sflname>
+      <gender csex="m">M</gender>
+      <roddenrating rrc="1">AA</roddenrating>
+      <datatype sdatatype="Public Figure" dtc="1" sdatasource="Quoted BC/BR" dsc="2" />
+      <bdata>
+        <sbdate ccalendar="g" iyear="1966" imonth="2" iday="19">1966/02/19</sbdate>
+        <sbdate_dmy>19 February 1966</sbdate_dmy>
+        <sbtime sbtime_ampm="07:28 AM" ctimetype="s" stimetype="standard time" stmerid="h5w" ctzauto="a" jd_ut="2439176.019444" sznabbr="EST">07:28</sbtime>
+        <place slati="42n22" slong="71w04">Boston</place>
+        <country sctr="MA (US)">Massachusetts</country>
+        <positions sun_sign="pis" sun_degmin="00°25" moon_sign="aqu" moon_degmin="20°18" asc_sign="pis" asc_degmin="20°54" />
+      </bdata>
+      <scollector>McEvoy</scollector>
+      <seditor>LMR</seditor>
+      <sbiographer>lmr</sbiographer>
+      <screationdate>1996/12/08</screationdate>
+      <slasteditdate>2012/12/18</slasteditdate>
+    </public_data>
+    <text_data>
+      <shortbiography copyright="© Astrodienst AG / Astrodatabank">American noted family and youngest brother to CharlesStuart.  Matthew helped ...</shortbiography>
+      <adb_link>http://www.astro.com/astro-databank/Stuart%2C_Matthew</adb_link>
+      <sourcenotes copyright="© Astrodienst AG / Astrodatabank">Frances McEvoy quotes B.C.\n</sourcenotes>
+    </text_data>
+    <research_data>
+      <categories count="6" note="© Astrodienst AG / Astrodatabank">
+        <category cat_id="152" adb_id="1000" catnotes="Death of brother and sister-in-law">Family : Childhood : Family traumatic event</category>
+        <category cat_id="168" adb_id="1000" catnotes="Brother Charles shot wife">Family : Childhood : Sibling circumstances</category>
+        <category cat_id="272" adb_id="1000" catnotes="Concealing evidence">Passions : Criminal Perpetrator : Homicide involvement</category>
+        <category cat_id="282" adb_id="1000" catnotes="Three-to-five years">Passions : Criminal Perpetrator : Prison sentence</category>
+        <category cat_id="908" adb_id="1000" catnotes="High profile family case">Notable : Famous : Criminal cases</category>
+        <category cat_id="635" adb_id="1000">Notable : Book Collection : Crime Collection</category>
+      </categories>
+      <relationships count="2" note="© Astrodienst AG / Astrodatabank">
+        <relationship rel_id="850" rel_adb_id="1001" adb_id="1000" relcat="Family">sibling relationship with Stuart, Charles, born: 1959/12/18</relationship>
+        <relationship rel_id="850" rel_adb_id="1003" adb_id="1000" relcat="Family">sibling relationship with Stuart, Mark, born: 1963/07/12</relationship>
+      </relationships>
+      <events count="4" note="© Astrodienst AG / Astrodatabank">
+        <event sevcode="Death of Significant person" evn_id="799" adb_id="1000" evnotes="Shooting death of sister-in-law">
+          <event_data>
+            <sbdate ccalendar="g" iyear="1989" imonth="10" iday="24">1989/10/24</sbdate>
+            <sbdate_dmy>24 October 1989</sbdate_dmy>
+          </event_data>
+        </event>
+        <event sevcode="Death of Sibling" evn_id="798" adb_id="1000" evnotes="Brother committed suicide to avoid homicide proceedings">
+          <event_data>
+            <sbdate ccalendar="g" iyear="1990" imonth="01" iday="04">1990/01/04</sbdate>
+            <sbdate_dmy>4 January 1990</sbdate_dmy>
+          </event_data>
+        </event>
+        <event sevcode="Crime : Arrest" evn_id="988" adb_id="1000" evnotes="Indicted on evidence concealment charges">
+          <event_data>
+            <sbdate ccalendar="g" iyear="1991" imonth="10" iday="00">1991/10/00</sbdate>
+            <sbdate_dmy>October 1991</sbdate_dmy>
+          </event_data>
+        </event>
+        <event sevcode="Death, Cause unspecified" evn_id="771" adb_id="1000" evnotes="Age 45">
+          <event_data>
+            <sbdate ccalendar="g" iyear="2011" imonth="09" iday="03">2011/09/03</sbdate>
+            <sbdate_dmy>3 September 2011</sbdate_dmy>
+          </event_data>
+        </event>
+      </events>
+    </research_data>
+  </adb_entry>
+
+  <adb_entry adb_id="1001">
+    <update_timestamp itst="1457888978">2016-03-13T17:09:38Z</update_timestamp>
+    <public_data>
+      <name>Stuart, Charles</name>
+      <sflname>Charles Stuart</sflname>
+      <gender csex="m">M</gender>
+      <roddenrating rrc="1">AA</roddenrating>
+      <datatype sdatatype="Public Figure" dtc="1" sdatasource="Quoted BC/BR" dsc="2" />
+      <bdata>
+        <sbdate ccalendar="g" iyear="1959" imonth="12" iday="18">1959/12/18</sbdate>
+        <sbdate_dmy>18 December 1959</sbdate_dmy>
+        <sbtime sbtime_ampm="05:16 AM" ctimetype="s" stimetype="standard time" stmerid="h5w" ctzauto="a" jd_ut="2436920.927778" sznabbr="EST">05:16</sbtime>
+        <place slati="42n22" slong="71w04">Boston</place>
+        <country sctr="MA (US)">Massachusetts</country>
+        <positions sun_sign="sag" sun_degmin="25°45" moon_sign="leo" moon_degmin="01°10" asc_sign="sag" asc_degmin="01°27" />
+      </bdata>
+      <scollector>McEvoy</scollector>
+      <seditor>LMR</seditor>
+      <sbiographer>lmr</sbiographer>
+      <screationdate>1996/12/08</screationdate>
+      <slasteditdate>2016/03/13</slasteditdate>
+    </public_data>
+    <text_data>
+      <shortbiography copyright="© Astrodienst AG / Astrodatabank and © Wikipedia">American store manager, a Boston furrier, and a murderer-suicide. On the night ...</shortbiography>
+      <wikipedia_link>https://en.wikipedia.org/Charles_Stuart_(murderer)</wikipedia_link>
+      <adb_link>http://www.astro.com/astro-databank/Stuart%2C_Charles</adb_link>
+      <sourcenotes copyright="© Astrodienst AG / Astrodatabank">Frances McEvoy quotes B.C.\n</sourcenotes>
+    </text_data>
+    <research_data>
+      <categories count="8" note="© Astrodienst AG / Astrodatabank">
+        <category cat_id="168" adb_id="1001" catnotes="Three">Family : Childhood : Sibling circumstances</category>
+        <category cat_id="3028" adb_id="1001" catnotes="His child born  posthumously">Family : Parenting : Birthing - Unusual</category>
+        <category cat_id="275" adb_id="1001" catnotes="Shot and killed wife">Passions : Criminal Perpetrator : Homicide single</category>
+        <category cat_id="266" adb_id="1001" catnotes="Self-inflicted shooting victim">Passions : Criminal Victim : Assault/ Battery victim</category>
+        <category cat_id="293" adb_id="1001" catnotes="Jumped into river">Personal : Death : Suicide</category>
+        <category cat_id="316" adb_id="1001" catnotes="General manager">Vocation : Business : Middle Management</category>
+        <category cat_id="908" adb_id="1001" catnotes="Sensational high profile family case">Notable : Famous : Criminal cases</category>
+        <category cat_id="635" adb_id="1001">Notable : Book Collection : Crime Collection</category>
+      </categories>
+      <relationships count="7" note="© Astrodienst AG / Astrodatabank">
+        <relationship rel_id="858" rel_adb_id="25286" adb_id="1001" relcat="Associates">lover relationship with Allen, Deborah, born: 1967/01/03</relationship>
+        <relationship rel_id="848" rel_adb_id="1005" adb_id="1001" relcat="Family">parent-&gt;child relationship with Stuart, Christopher, born: 1989/10/23</relationship>
+        <relationship rel_id="843" rel_adb_id="1004" adb_id="1001" relcat="Family" relnotes="Bitter">spouse relationship with Stuart, Carol, born: 1959/03/26</relationship>
+        <relationship rel_id="850" rel_adb_id="1003" adb_id="1001" relcat="Family">sibling relationship with Stuart, Mark, born: 1963/07/12</relationship>
+        <relationship rel_id="850" rel_adb_id="1000" adb_id="1001" relcat="Family">sibling relationship with Stuart, Matthew, born: 1966/02/19</relationship>
+        <relationship rel_id="850" rel_adb_id="1002" adb_id="1001" relcat="Family">sibling relationship with Stuart, Michael, born: 1961/03/20</relationship>
+        <relationship rel_id="869" rel_adb_id="1004" adb_id="1001" relcat="had as Victim">homicide victim relationship with Stuart, Carol, born: 1959/03/26</relationship>
+      </relationships>
+      <events count="3" note="© Astrodienst AG / Astrodatabank">
+        <event sevcode="Crime : Homicide Perpetration" evn_id="785" adb_id="1001" evnotes="Shot wife in back of head">
+          <event_data>
+            <sbdate ccalendar="g" iyear="1989" imonth="10" iday="23">1989/10/23</sbdate>
+            <sbdate_dmy>23 October 1989</sbdate_dmy>
+          </event_data>
+        </event>
+        <event sevcode="Family : Change in family responsibilities" evn_id="801" adb_id="1001" evnotes="Birth of child, posthumously">
+          <event_data>
+            <sbdate ccalendar="g" iyear="1989" imonth="10" iday="24">1989/10/24</sbdate>
+            <sbdate_dmy>24 October 1989</sbdate_dmy>
+          </event_data>
+        </event>
+        <event sevcode="Death by Suicide" evn_id="770" adb_id="1001" evnotes="Avoiding homicide charges, age 31">
+          <event_data>
+            <sbdate ccalendar="g" iyear="1990" imonth="01" iday="04">1990/01/04</sbdate>
+            <sbdate_dmy>4 January 1990</sbdate_dmy>
+          </event_data>
+        </event>
+      </events>
+    </research_data>
+  </adb_entry>
+
+
+
+  <adb_entry adb_id="1004">
+    <update_timestamp itst="1355858343">2012-12-18T19:19:03Z</update_timestamp>
+    <public_data>
+      <name>Stuart, Carol</name>
+      <sflname>Carol Stuart</sflname>
+      <birthname>Carol DiMaiti</birthname>
+      <gender csex="f">F</gender>
+      <roddenrating rrc="1">AA</roddenrating>
+      <datatype sdatatype="Public Figure" dtc="1" sdatasource="Quoted BC/BR" dsc="2" />
+      <bdata>
+        <sbdate ccalendar="g" iyear="1959" imonth="3" iday="26">1959/03/26</sbdate>
+        <sbdate_dmy>26 March 1959</sbdate_dmy>
+        <sbtime sbtime_ampm="11:01 AM" ctimetype="s" stimetype="standard time" stmerid="h5w" ctzauto="a" jd_ut="2436654.167361" sznabbr="EST">11:01</sbtime>
+        <place slati="42n25" slong="71w06">Medford</place>
+        <country sctr="MA (US)">Massachusetts</country>
+        <positions sun_sign="ari" sun_degmin="05°15" moon_sign="sco" moon_degmin="00°42" asc_sign="can" asc_degmin="13°49" />
+      </bdata>
+      <scollector>McEvoy</scollector>
+      <seditor>LMR</seditor>
+      <sbiographer>lmr</sbiographer>
+      <screationdate>1996/12/08</screationdate>
+      <slasteditdate>2012/12/18</slasteditdate>
+    </public_data>
+    <text_data>
+      <shortbiography copyright="© Astrodienst AG / Astrodatabank">American attorney and homicide victim, shot in the back of the head allegedly ...</shortbiography>
+      <adb_link>http://www.astro.com/astro-databank/Stuart%2C_Carol</adb_link>
+      <sourcenotes copyright="© Astrodienst AG / Astrodatabank">Frances McEvoy quotes B.C.\n</sourcenotes>
+    </text_data>
+    <research_data>
+      <categories count="6" note="© Astrodienst AG / Astrodatabank">
+        <category cat_id="2884" adb_id="1004" catnotes="Popular, saw good in all">Traits : Personality : Loved by all</category>
+        <category cat_id="3028" adb_id="1004" catnotes="Posthumous birth of her baby">Family : Parenting : Birthing - Unusual</category>
+        <category cat_id="276" adb_id="1004" catnotes="Shot in back">Passions : Criminal Victim : Homicide victim</category>
+        <category cat_id="445" adb_id="1004">Vocation : Law : Attorney</category>
+        <category cat_id="908" adb_id="1004" catnotes="High profile family case">Notable : Famous : Criminal cases</category>
+        <category cat_id="635" adb_id="1004">Notable : Book Collection : Crime Collection</category>
+      </categories>
+      <relationships count="4" note="© Astrodienst AG / Astrodatabank">
+        <relationship rel_id="848" rel_adb_id="1005" adb_id="1004" relcat="Family">parent-&gt;child relationship with Stuart, Christopher, born: 1989/10/23</relationship>
+        <relationship rel_id="843" rel_adb_id="1001" adb_id="1004" relcat="Family" relnotes="Bitter very">spouse relationship with Stuart, Charles, born: 1959/12/18</relationship>
+        <relationship rel_id="850" rel_adb_id="937" adb_id="1004" relcat="Family">sibling relationship with Dimaiti, Carl, born: 1952/09/29</relationship>
+        <relationship rel_id="871" rel_adb_id="1001" adb_id="1004" relcat="acted on by Criminal">homicide perpetrator relationship with Stuart, Charles, born: 1959/12/18</relationship>
+      </relationships>
+      <events count="2" note="© Astrodienst AG / Astrodatabank">
+        <event sevcode="Death by Homicide" evn_id="769" adb_id="1004" evnotes="Shot in head, age 30">
+          <event_data>
+            <sbdate ccalendar="g" iyear="1989" imonth="10" iday="24">1989/10/24</sbdate>
+            <sbdate_dmy>24 October 1989</sbdate_dmy>
+            <sbtime sbtime_ampm="03:00 AM" ctimetype="d" stimetype="" stmerid="h4w" sznabbr="EDT" itimeacc="2" stimeacc="">03:00</sbtime>
+            <place slati="42n22" slong="71w04">Boston</place>
+            <country sctr="MA (US)">Ma (us)</country>
+          </event_data>
+        </event>
+        <event sevcode="Health : Medical procedure" evn_id="747" adb_id="1004" evnotes="Birth of child by C-section posthumous">
+          <event_data>
+            <sbdate ccalendar="g" iyear="1989" imonth="10" iday="24">1989/10/24</sbdate>
+            <sbdate_dmy>24 October 1989</sbdate_dmy>
+          </event_data>
+        </event>
+      </events>
+    </research_data>
+  </adb_entry>
+
+  <adb_entry adb_id="1005">
+    <update_timestamp itst="1355858459">2012-12-18T19:20:59Z</update_timestamp>
+    <public_data>
+      <name>Stuart, Christopher</name>
+      <sflname>Christopher Stuart</sflname>
+      <gender csex="m">M</gender>
+      <roddenrating rrc="1">AA</roddenrating>
+      <datatype sdatatype="Public Figure" dtc="1" sdatasource="Quoted BC/BR" dsc="2" />
+      <bdata>
+        <sbdate ccalendar="g" iyear="1989" imonth="10" iday="23">1989/10/23</sbdate>
+        <sbdate_dmy>23 October 1989</sbdate_dmy>
+        <sbtime sbtime_ampm="9:30 PM" ctimetype="d" stimetype="daylight saving time" stmerid="h4w" ctzauto="a" jd_ut="2447823.562500" sznabbr="EDT">21:30</sbtime>
+        <place slati="42n22" slong="71w04">Boston</place>
+        <country sctr="MA (US)">Massachusetts</country>
+        <positions sun_sign="sco" sun_degmin="00°37" moon_sign="leo" moon_degmin="29°37" asc_sign="can" asc_degmin="06°25" />
+      </bdata>
+      <scollector>McEvoy</scollector>
+      <seditor>LMR</seditor>
+      <sbiographer>lmr</sbiographer>
+      <screationdate>1996/12/08</screationdate>
+      <slasteditdate>2012/12/18</slasteditdate>
+    </public_data>
+    <text_data>
+      <shortbiography copyright="© Astrodienst AG / Astrodatabank">American infant, the victim of a tragedy as his dad killed his mom.  Premature ...</shortbiography>
+      <adb_link>http://www.astro.com/astro-databank/Stuart%2C_Christopher</adb_link>
+      <sourcenotes copyright="© Astrodienst AG / Astrodatabank">Frances McEvoy quotes B.C.\n</sourcenotes>
+    </text_data>
+    <research_data>
+      <categories count="6" note="© Astrodienst AG / Astrodatabank">
+        <category cat_id="125" adb_id="1005" catnotes="Posthumously">Personal : Birth : Cesarean</category>
+        <category cat_id="129" adb_id="1005" catnotes="17 days">Personal : Birth : Infant mortality</category>
+        <category cat_id="134" adb_id="1005" catnotes="Premie by 8 weeks">Personal : Birth : Premature</category>
+        <category cat_id="2933" adb_id="1005" catnotes="Mother died of gunshot wounds">Personal : Birth : Traumatic birth</category>
+        <category cat_id="908" adb_id="1005" catnotes="High profile family case">Notable : Famous : Criminal cases</category>
+        <category cat_id="635" adb_id="1005">Notable : Book Collection : Crime Collection</category>
+      </categories>
+      <relationships count="2" note="© Astrodienst AG / Astrodatabank">
+        <relationship rel_id="845" rel_adb_id="1004" adb_id="1005" relcat="Family">child-&gt;parent relationship with Stuart, Carol, born: 1959/03/26</relationship>
+        <relationship rel_id="845" rel_adb_id="1001" adb_id="1005" relcat="Family">child-&gt;parent relationship with Stuart, Charles, born: 1959/12/18</relationship>
+      </relationships>
+      <events count="1" note="© Astrodienst AG / Astrodatabank">
+        <event sevcode="Death, Cause unspecified" evn_id="771" adb_id="1005" evnotes="Too small, age 17 days">
+          <event_data>
+            <sbdate ccalendar="g" iyear="1989" imonth="11" iday="05">1989/11/05</sbdate>
+            <sbdate_dmy>5 November 1989</sbdate_dmy>
+          </event_data>
+        </event>
+      </events>
+    </research_data>
+  </adb_entry>
+
+  <adb_entry adb_id="1006">
+    <update_timestamp itst="1457889059">2016-03-13T17:10:59Z</update_timestamp>
+    <public_data>
+      <name>Family Distress 1006</name>
+      <sflname>Family Distress 1006</sflname>
+      <gender csex="f">F</gender>
+      <roddenrating rrc="1">AA</roddenrating>
+      <datatype sdatatype="Anonymous" dtc="4" sdatasource="Quoted BC/BR" dsc="2" />
+      <bdata>
+        <sbdate ccalendar="g" iyear="1948" imonth="1" iday="19">1948/01/19</sbdate>
+        <sbdate_dmy>19 January 1948</sbdate_dmy>
+        <sbtime sbtime_ampm="2:42 PM" ctimetype="s" stimetype="standard time" stmerid="h5w" ctzauto="a" jd_ut="2432570.320833" sznabbr="EST">14:42</sbtime>
+        <place slati="40n38" slong="73w56">Brooklyn (Kings County)</place>
+        <country sctr="NY (US)">New York</country>
+        <positions sun_sign="cap" sun_degmin="28°40" moon_sign="tau" moon_degmin="02°40" asc_sign="can" asc_degmin="01°24" />
+      </bdata>
+      <scollector>Rodden</scollector>
+      <seditor>LMR</seditor>
+      <sbiographer>LMR</sbiographer>
+      <screationdate>1996/12/08</screationdate>
+      <slasteditdate>2016/03/13</slasteditdate>
+    </public_data>
+    <text_data>
+      <shortbiography copyright="© Astrodienst AG / Astrodatabank">American family, married with a daughter born in 1974 and a son on 7/07/75.  ...</shortbiography>
+      <adb_link>http://www.astro.com/astro-databank/Family_Distress_1006</adb_link>
+      <sourcenotes copyright="© Astrodienst AG / Astrodatabank">Bill Meridian quotes her, B.C.\n</sourcenotes>
+    </text_data>
+    <research_data>
+      <categories count="4" note="© Astrodienst AG / Astrodatabank">
+        <category cat_id="186" adb_id="1006">Family : Relationship : Marriage - Very happy</category>
+        <category cat_id="199" adb_id="1006" catnotes="Two">Family : Parenting : Kids 1-3</category>
+        <category cat_id="630" adb_id="1006" catnotes="Age 27">Personal : Death : Short Life less than 29 Yrs</category>
+        <category cat_id="295" adb_id="1006" catnotes="Post-Partum, choked to death">Personal : Death : Unusual</category>
+      </categories>
+      <relationships count="3" note="© Astrodienst AG / Astrodatabank">
+        <relationship rel_id="848" rel_adb_id="1008" adb_id="1006" relcat="Family">parent-&gt;child relationship with Family Distress 1008, born: 1974/01/16</relationship>
+        <relationship rel_id="848" rel_adb_id="1009" adb_id="1006" relcat="Family">parent-&gt;child relationship with Family Distress 1009, born: 1975/07/07</relationship>
+        <relationship rel_id="843" rel_adb_id="1007" adb_id="1006" relcat="Family">spouse relationship with Family Distress 1007, born: 1945/06/27</relationship>
+      </relationships>
+      <events count="1" note="© Astrodienst AG / Astrodatabank">
+        <event sevcode="Death by Accident" evn_id="764" adb_id="1006" evnotes="Choked on her own vomit, age 27">
+          <event_data>
+            <sbdate ccalendar="g" iyear="1975" imonth="07" iday="07">1975/07/07</sbdate>
+            <sbdate_dmy>7 July 1975</sbdate_dmy>
+          </event_data>
+        </event>
+      </events>
+    </research_data>
+  </adb_entry>
+
+  <adb_entry adb_id="1007">
+    <update_timestamp itst="1457889121">2016-03-13T17:12:01Z</update_timestamp>
+    <public_data>
+      <name>Family Distress 1007</name>
+      <sflname>Family Distress 1007</sflname>
+      <gender csex="m">M</gender>
+      <roddenrating rrc="1">AA</roddenrating>
+      <datatype sdatatype="Anonymous" dtc="4" sdatasource="Quoted BC/BR" dsc="2" />
+      <bdata>
+        <sbdate ccalendar="g" iyear="1945" imonth="6" iday="27">1945/06/27</sbdate>
+        <sbdate_dmy>27 June 1945</sbdate_dmy>
+        <sbtime sbtime_ampm="06:15 AM" ctimetype="w" stimetype="war time" stmerid="h4w" ctzauto="a" jd_ut="2431633.927083" sznabbr="EWT">06:15</sbtime>
+        <place slati="40n38" slong="73w56">Brooklyn (Kings County)</place>
+        <country sctr="NY (US)">New York</country>
+        <positions sun_sign="can" sun_degmin="05°23" moon_sign="cap" moon_degmin="27°03" asc_sign="can" asc_degmin="14°41" />
+      </bdata>
+      <scollector>Rodden</scollector>
+      <seditor>LMR</seditor>
+      <sbiographer>LMR</sbiographer>
+      <screationdate>1996/12/08</screationdate>
+      <slasteditdate>2016/03/13</slasteditdate>
+    </public_data>
+    <text_data>
+      <shortbiography copyright="© Astrodienst AG / Astrodatabank">American father in a dysfunctional family.   Married, his daughter was born in ...</shortbiography>
+      <adb_link>http://www.astro.com/astro-databank/Family_Distress_1007</adb_link>
+      <sourcenotes copyright="© Astrodienst AG / Astrodatabank">Bill Meridian quotes him, B.C.\n</sourcenotes>
+    </text_data>
+    <research_data>
+      <categories count="3" note="© Astrodienst AG / Astrodatabank">
+        <category cat_id="196" adb_id="1007" catnotes="Wife choked after childbirth">Family : Relationship : Widowed</category>
+        <category cat_id="210" adb_id="1007" catnotes="Son in trouble, daughter a runaway">Family : Parenting : Kids -Traumatic event</category>
+        <category cat_id="279" adb_id="1007" catnotes="Won settlement">Passions : Criminal Perpetrator : Lawsuit instigated</category>
+      </categories>
+      <relationships count="3" note="© Astrodienst AG / Astrodatabank">
+        <relationship rel_id="848" rel_adb_id="1008" adb_id="1007" relcat="Family">parent-&gt;child relationship with Family Distress 1008, born: 1974/01/16</relationship>
+        <relationship rel_id="848" rel_adb_id="1009" adb_id="1007" relcat="Family">parent-&gt;child relationship with Family Distress 1009, born: 1975/07/07</relationship>
+        <relationship rel_id="843" rel_adb_id="1006" adb_id="1007" relcat="Family">spouse relationship with Family Distress 1006, born: 1948/01/19</relationship>
+      </relationships>
+      <events count="1" note="© Astrodienst AG / Astrodatabank">
+        <event sevcode="Death of Mate" evn_id="795" adb_id="1007" evnotes="Wife died after birth of their son">
+          <event_data>
+            <sbdate ccalendar="g" iyear="1975" imonth="07" iday="07">1975/07/07</sbdate>
+            <sbdate_dmy>7 July 1975</sbdate_dmy>
+          </event_data>
+        </event>
+      </events>
+    </research_data>
+  </adb_entry>
+
+  <adb_entry adb_id="1008">
+    <update_timestamp itst="1457889154">2016-03-13T17:12:34Z</update_timestamp>
+    <public_data>
+      <name>Family Distress 1008</name>
+      <sflname>Family Distress 1008</sflname>
+      <gender csex="f">F</gender>
+      <roddenrating rrc="1">AA</roddenrating>
+      <datatype sdatatype="Anonymous" dtc="4" sdatasource="Quoted BC/BR" dsc="2" />
+      <bdata>
+        <sbdate ccalendar="g" iyear="1974" imonth="1" iday="16">1974/01/16</sbdate>
+        <sbdate_dmy>16 January 1974</sbdate_dmy>
+        <sbtime sbtime_ampm="1:56 PM" ctimetype="d" stimetype="daylight saving time" stmerid="h4w" ctzauto="a" jd_ut="2442064.247222" sznabbr="EDT">13:56</sbtime>
+        <place slati="40n18" slong="74w0">Long Branch</place>
+        <country sctr="NJ (US)">New Jersey</country>
+        <positions sun_sign="cap" sun_degmin="26°14" moon_sign="sco" moon_degmin="13°05" asc_sign="gem" asc_degmin="01°19" />
+      </bdata>
+      <scollector>Rodden</scollector>
+      <seditor>LMR</seditor>
+      <sbiographer>LMR</sbiographer>
+      <screationdate>1996/12/08</screationdate>
+      <slasteditdate>2016/03/13</slasteditdate>
+    </public_data>
+    <text_data>
+      <shortbiography copyright="© Astrodienst AG / Astrodatabank">American daughter in a dysfunctional family.   Her mom died three hours after ...</shortbiography>
+      <adb_link>http://www.astro.com/astro-databank/Family_Distress_1008</adb_link>
+      <sourcenotes copyright="© Astrodienst AG / Astrodatabank">Bill Meridian quotes her mom, B.R.\n</sourcenotes>
+    </text_data>
+    <research_data>
+      <categories count="2" note="© Astrodienst AG / Astrodatabank">
+        <category cat_id="148" adb_id="1008" catnotes="Ran away">Family : Childhood : Family distant</category>
+        <category cat_id="152" adb_id="1008" catnotes="Mom died, brother in trouble">Family : Childhood : Family traumatic event</category>
+      </categories>
+      <relationships count="2" note="© Astrodienst AG / Astrodatabank">
+        <relationship rel_id="845" rel_adb_id="1006" adb_id="1008" relcat="Family">child-&gt;parent relationship with Family Distress 1006, born: 1948/01/19</relationship>
+        <relationship rel_id="845" rel_adb_id="1007" adb_id="1008" relcat="Family">child-&gt;parent relationship with Family Distress 1007, born: 1945/06/27</relationship>
+      </relationships>
+      <events count="2" note="© Astrodienst AG / Astrodatabank">
+        <event sevcode="Death of Mother" evn_id="796" adb_id="1008" evnotes="Mom died when brother born">
+          <event_data>
+            <sbdate ccalendar="g" iyear="1975" imonth="07" iday="07">1975/07/07</sbdate>
+            <sbdate_dmy>7 July 1975</sbdate_dmy>
+          </event_data>
+        </event>
+        <event sevcode="Death of Mother" evn_id="796" adb_id="1008" evnotes="When she was young">
+          <event_data>
+            <sbdate ccalendar="g" iyear="1975" imonth="07" iday="07">1975/07/07</sbdate>
+            <sbdate_dmy>7 July 1975</sbdate_dmy>
+          </event_data>
+        </event>
+      </events>
+    </research_data>
+  </adb_entry>
+
+  <adb_entry adb_id="1009">
+    <update_timestamp itst="1457889183">2016-03-13T17:13:03Z</update_timestamp>
+    <public_data>
+      <name>Family Distress 1009</name>
+      <sflname>Family Distress 1009</sflname>
+      <gender csex="m">M</gender>
+      <roddenrating rrc="1">AA</roddenrating>
+      <datatype sdatatype="Anonymous" dtc="4" sdatasource="Quoted BC/BR" dsc="2" />
+      <bdata>
+        <sbdate ccalendar="g" iyear="1975" imonth="7" iday="7">1975/07/07</sbdate>
+        <sbdate_dmy>7 July 1975</sbdate_dmy>
+        <sbtime sbtime_ampm="7:10 PM" ctimetype="d" stimetype="daylight saving time" stmerid="h4w" ctzauto="a" jd_ut="2442601.465278" sznabbr="EDT">19:10</sbtime>
+        <place slati="40n18" slong="74w0">Long Branch</place>
+        <country sctr="NJ (US)">New Jersey</country>
+        <positions sun_sign="can" sun_degmin="15°12" moon_sign="gem" moon_degmin="29°18" asc_sign="sag" asc_degmin="27°28" />
+      </bdata>
+      <scollector>Rodden</scollector>
+      <seditor>LMR</seditor>
+      <sbiographer>LMR</sbiographer>
+      <screationdate>1996/12/08</screationdate>
+      <slasteditdate>2016/03/13</slasteditdate>
+    </public_data>
+    <text_data>
+      <shortbiography copyright="© Astrodienst AG / Astrodatabank">American son in a dysfunctional family.  His mom died three hours after his ...</shortbiography>
+      <adb_link>http://www.astro.com/astro-databank/Family_Distress_1009</adb_link>
+      <sourcenotes copyright="© Astrodienst AG / Astrodatabank">Bill Meridian quotes his mom, B.R.\n</sourcenotes>
+    </text_data>
+    <research_data>
+      <categories count="4" note="© Astrodienst AG / Astrodatabank">
+        <category cat_id="79" adb_id="1009" catnotes="Physically abusive">Diagnoses : Psychological : Psychotic Episode</category>
+        <category cat_id="166" adb_id="1009" catnotes="Hit his step-mom">Family : Childhood : Abuse - Physical/ Verbal</category>
+        <category cat_id="152" adb_id="1009" catnotes="Mom died when he was born">Family : Childhood : Family traumatic event</category>
+        <category cat_id="284" adb_id="1009" catnotes="Always in trouble">Passions : Criminal Perpetrator : Social crime/ delinquent</category>
+      </categories>
+      <relationships count="2" note="© Astrodienst AG / Astrodatabank">
+        <relationship rel_id="845" rel_adb_id="1006" adb_id="1009" relcat="Family">child-&gt;parent relationship with Family Distress 1006, born: 1948/01/19</relationship>
+        <relationship rel_id="845" rel_adb_id="1007" adb_id="1009" relcat="Family">child-&gt;parent relationship with Family Distress 1007, born: 1945/06/27</relationship>
+      </relationships>
+      <events count="2" note="© Astrodienst AG / Astrodatabank">
+        <event sevcode="Death of Mother" evn_id="796" adb_id="1009" evnotes="Choked on her own vomit">
+          <event_data>
+            <sbdate ccalendar="g" iyear="1975" imonth="07" iday="07">1975/07/07</sbdate>
+            <sbdate_dmy>7 July 1975</sbdate_dmy>
+          </event_data>
+        </event>
+        <event sevcode="Social : Institutionalized - prison, hospital" evn_id="826" adb_id="1009" evnotes="Sent to a detention home">
+          <event_data>
+            <sbdate ccalendar="g" iyear="1991" imonth="00" iday="00">1991/00/00</sbdate>
+            <sbdate_dmy>1991</sbdate_dmy>
+          </event_data>
+        </event>
+      </events>
+    </research_data>
+  </adb_entry>
+
+
+
+
+
+
+
+  <adb_entry adb_id="1016">
+    <update_timestamp itst="1457889395">2016-03-13T17:16:35Z</update_timestamp>
+    <public_data>
+      <name>Fawcett, Perry</name>
+      <sflname>Perry Fawcett</sflname>
+      <gender csex="m">M</gender>
+      <roddenrating rrc="4">C</roddenrating>
+      <datatype sdatatype="Public Figure" dtc="1" sdatasource="Orig source not known" dsc="7" />
+      <bdata>
+        <sbdate ccalendar="g" iyear="1867" imonth="8" iday="31">1867/08/31</sbdate>
+        <sbdate_dmy>31 August 1867</sbdate_dmy>
+        <sbtime sbtime_ampm="08:00 AM" ctimetype="s" stimetype="standard time" stmerid="h0e" ctzauto="a" jd_ut="2403209.833333" sznabbr="GMT">08:00</sbtime>
+        <place slati="50n28" slong="3w30">Torquay</place>
+        <country sctr="ENG (UK)">England</country>
+        <positions sun_sign="vir" sun_degmin="07°25" moon_sign="lib" moon_degmin="00°50" asc_sign="lib" asc_degmin="03°57" />
+      </bdata>
+      <scollector>Rodden</scollector>
+      <seditor>LMR</seditor>
+      <sbiographer>lmr</sbiographer>
+      <screationdate>1996/12/08</screationdate>
+      <slasteditdate>2016/03/13</slasteditdate>
+    </public_data>
+    <text_data>
+      <shortbiography copyright="© Astrodienst AG / Astrodatabank and © Wikipedia">British explorer who disappeared in the Amazon with his son and a companion in ...</shortbiography>
+      <wikipedia_link>https://en.wikipedia.org/Percy_Fawcett</wikipedia_link>
+      <adb_link>http://www.astro.com/astro-databank/Fawcett%2C_Perry</adb_link>
+      <sourcenotes copyright="© Astrodienst AG / Astrodatabank">Robson quotes Mr. Childs in BJA 8/l932\n</sourcenotes>
+    </text_data>
+    <research_data>
+      <categories count="4" note="© Astrodienst AG / Astrodatabank">
+        <category cat_id="245" adb_id="1016" catnotes="Disinterest">Passions : Sexuality : Sexual dysfunction</category>
+        <category cat_id="281" adb_id="1016" catnotes="1925">Passions : Criminal Victim : Missing person</category>
+        <category cat_id="557" adb_id="1016">Vocation : Travel : Adventurer</category>
+        <category cat_id="561" adb_id="1016" catnotes="Amazon region">Vocation : Travel : Explorer</category>
+      </categories>
+      <events count="1" note="© Astrodienst AG / Astrodatabank">
+        <event sevcode="Crime : Missing Person" evn_id="786" adb_id="1016" evnotes="Missing while in the Amazon">
+          <event_data>
+            <sbdate ccalendar="g" iyear="1925" imonth="00" iday="00">1925/00/00</sbdate>
+            <sbdate_dmy>1925</sbdate_dmy>
+          </event_data>
+        </event>
+      </events>
+    </research_data>
+  </adb_entry>
+
+  <adb_entry adb_id="1017">
+    <update_timestamp itst="1457889487">2016-03-13T17:18:07Z</update_timestamp>
+    <public_data>
+      <name>Feder, Gottfried</name>
+      <sflname>Gottfried Feder</sflname>
+      <gender csex="m">M</gender>
+      <roddenrating rrc="4">C</roddenrating>
+      <datatype sdatatype="Public Figure" dtc="1" sdatasource="Orig source not known" dsc="7" />
+      <bdata>
+        <sbdate ccalendar="g" iyear="1883" imonth="1" iday="27">1883/01/27</sbdate>
+        <sbdate_dmy>27 January 1883</sbdate_dmy>
+        <sbtime sbtime_ampm="06:00 AM" ctimetype="l" stimetype="local mean time" stmerid="m9e56" ctzauto="a" jd_ut="2408837.722407" sznabbr="LMT">06:00</sbtime>
+        <place slati="49n48" slong="9e56">Würzburg</place>
+        <country sctr="GER">Germany</country>
+        <positions sun_sign="aqu" sun_degmin="06°59" moon_sign="vir" moon_degmin="21°18" asc_sign="cap" asc_degmin="04°58" />
+      </bdata>
+      <scollector>Rodden</scollector>
+      <seditor>LMR</seditor>
+      <sbiographer>lmr</sbiographer>
+      <screationdate>1996/12/08</screationdate>
+      <slasteditdate>2016/03/13</slasteditdate>
+    </public_data>
+    <text_data>
+      <shortbiography copyright="© Astrodienst AG / Astrodatabank and © Wikipedia">German Nazi economist, appointed by Hitler as the arbiter of all questions of ...</shortbiography>
+      <wikipedia_link>https://en.wikipedia.org/Gottfried_Feder</wikipedia_link>
+      <adb_link>http://www.astro.com/astro-databank/Feder%2C_Gottfried</adb_link>
+      <sourcenotes copyright="© Astrodienst AG / Astrodatabank">FN No.142 and  Sabian Symbols No.334.\n</sourcenotes>
+    </text_data>
+    <research_data>
+      <categories count="3" note="© Astrodienst AG / Astrodatabank">
+        <category cat_id="359" adb_id="1017">Vocation : Business : Economist</category>
+        <category cat_id="497" adb_id="1017">Vocation : Politics : Labor unions</category>
+        <category cat_id="498" adb_id="1017">Vocation : Politics : Nazi party</category>
+      </categories>
+      <events count="1" note="© Astrodienst AG / Astrodatabank">
+        <event sevcode="Death, Cause unspecified" evn_id="771" adb_id="1017" evnotes="Age 58">
+          <event_data>
+            <sbdate ccalendar="g" iyear="1941" imonth="09" iday="24">1941/09/24</sbdate>
+            <sbdate_dmy>24 September 1941</sbdate_dmy>
+          </event_data>
+        </event>
+      </events>
+    </research_data>
+  </adb_entry>
+
+  <adb_entry adb_id="1018">
+    <update_timestamp itst="1457889629">2016-03-13T17:20:29Z</update_timestamp>
+    <public_data>
+      <name>Federighi, Feda</name>
+      <sflname>Feda Federighi</sflname>
+      <gender csex="f">F</gender>
+      <roddenrating rrc="1">AA</roddenrating>
+      <datatype sdatatype="Public Figure" dtc="1" sdatasource="Quoted BC/BR" dsc="2" />
+      <bdata>
+        <sbdate ccalendar="g" iyear="1946" imonth="4" iday="3">1946/04/03</sbdate>
+        <sbdate_dmy>3 April 1946</sbdate_dmy>
+        <sbtime sbtime_ampm="12:15 AM" ctimetype="s" stimetype="standard time" stmerid="h8w" ctzauto="a" jd_ut="2431913.843750" sznabbr="PST">00:15</sbtime>
+        <place slati="37n47" slong="122w25">San Francisco</place>
+        <country sctr="CA (US)">California</country>
+        <positions sun_sign="ari" sun_degmin="12°58" moon_sign="ari" moon_degmin="28°57" asc_sign="sag" asc_degmin="23°29" />
+      </bdata>
+      <scollector>Rodden</scollector>
+      <seditor>LMR</seditor>
+      <sbiographer>lmr</sbiographer>
+      <screationdate>1996/12/08</screationdate>
+      <slasteditdate>2016/03/13</slasteditdate>
+    </public_data>
+    <text_data>
+      <shortbiography copyright="© Astrodienst AG / Astrodatabank">American reporter for metropolitan newspaper on local news ...</shortbiography>
+      <adb_link>http://www.astro.com/astro-databank/Federighi%2C_Feda</adb_link>
+      <sourcenotes copyright="© Astrodienst AG / Astrodatabank">Lilia Molina quotes her, B.C.\n</sourcenotes>
+    </text_data>
+    <research_data>
+      <categories count="1" note="© Astrodienst AG / Astrodatabank">
+        <category cat_id="572" adb_id="1018">Vocation : Writers : Columnist/ journalist</category>
+      </categories>
+    </research_data>
+  </adb_entry>
+
+  <adb_entry adb_id="1019">
+    <update_timestamp itst="1388448474">2013-12-31T00:07:54Z</update_timestamp>
+    <public_data>
+      <name>Fegelein, Hermann</name>
+      <sflname>Hermann Fegelein</sflname>
+      <gender csex="m">M</gender>
+      <roddenrating rrc="1">AA</roddenrating>
+      <datatype sdatatype="Public Figure" dtc="1" sdatasource="Quoted BC/BR" dsc="2" />
+      <bdata>
+        <sbdate ccalendar="g" iyear="1906" imonth="10" iday="30">1906/10/30</sbdate>
+        <sbdate_dmy>30 October 1906</sbdate_dmy>
+        <sbtime sbtime_ampm="09:00 AM" ctimetype="s" stimetype="standard time" stmerid="h1e" ctzauto="a" jd_ut="2417513.833333" sznabbr="MET">09:00</sbtime>
+        <place slati="49n17" slong="10e34">Ansbach</place>
+        <country sctr="GER">Germany</country>
+        <positions sun_sign="sco" sun_degmin="06°00" moon_sign="ari" moon_degmin="14°58" asc_sign="sco" asc_degmin="26°29" />
+      </bdata>
+      <scollector>Gauquelin</scollector>
+      <seditor>LMR</seditor>
+      <sbiographer>lmr</sbiographer>
+      <screationdate>1996/12/08</screationdate>
+      <slasteditdate>2013/12/31</slasteditdate>
+    </public_data>
+    <text_data>
+      <shortbiography copyright="© Astrodienst AG / Astrodatabank and © Wikipedia">German military, a Nazi SS General married to Hitler's sister Gretl.  He was ...</shortbiography>
+      <wikipedia_link>https://en.wikipedia.org/Hermann_Fegelein</wikipedia_link>
+      <adb_link>http://www.astro.com/astro-databank/Fegelein%2C_Hermann</adb_link>
+      <sourcenotes copyright="© Astrodienst AG / Astrodatabank">Gauquelin Vol. 3/1851\n</sourcenotes>
+    </text_data>
+    <research_data>
+      <categories count="4" note="© Astrodienst AG / Astrodatabank">
+        <category cat_id="149" adb_id="1019" catnotes="Married to Hitler's sister">Family : Childhood : Family noted</category>
+        <category cat_id="276" adb_id="1019" catnotes="Shot">Passions : Criminal Victim : Homicide victim</category>
+        <category cat_id="478" adb_id="1019" catnotes="General">Vocation : Military : Military career</category>
+        <category cat_id="498" adb_id="1019">Vocation : Politics : Nazi party</category>
+      </categories>
+      <events count="1" note="© Astrodienst AG / Astrodatabank">
+        <event sevcode="Death by Execution" evn_id="767" adb_id="1019" evnotes="Shot, age 38">
+          <event_data>
+            <sbdate ccalendar="g" iyear="1945" imonth="04" iday="29">1945/04/29</sbdate>
+            <sbdate_dmy>29 April 1945</sbdate_dmy>
+          </event_data>
+        </event>
+      </events>
+    </research_data>
+  </adb_entry>
+
+  <adb_entry adb_id="1020">
+    <update_timestamp itst="1457889677">2016-03-13T17:21:17Z</update_timestamp>
+    <public_data>
+      <name>Ferigo, Carmen</name>
+      <sflname>Carmen Ferigo</sflname>
+      <gender csex="f">F</gender>
+      <roddenrating rrc="1">AA</roddenrating>
+      <datatype sdatatype="Public Figure" dtc="1" sdatasource="Quoted BC/BR" dsc="2" />
+      <bdata>
+        <sbdate ccalendar="g" iyear="1962" imonth="11" iday="15">1962/11/15</sbdate>
+        <sbdate_dmy>15 November 1962</sbdate_dmy>
+        <sbtime sbtime_ampm="7:15 PM" ctimetype="s" stimetype="standard time" stmerid="h1e" ctzauto="a" jd_ut="2437984.260417" sznabbr="MET">19:15</sbtime>
+        <place slati="45n28" slong="9e12">Milano</place>
+        <country sctr="ITALY">Italy</country>
+        <positions sun_sign="sco" sun_degmin="22°54" moon_sign="can" moon_degmin="13°54" asc_sign="can" asc_degmin="03°07" />
+      </bdata>
+      <scollector>Bordoni</scollector>
+      <seditor>LMR</seditor>
+      <sbiographer>lmr</sbiographer>
+      <screationdate>1996/12/08</screationdate>
+      <slasteditdate>2016/03/13</slasteditdate>
+    </public_data>
+    <text_data>
+      <shortbiography copyright="© Astrodienst AG / Astrodatabank">Italian homicide;  killed her 17-month-old daughter, Carole Palermo, in Milan ...</shortbiography>
+      <adb_link>http://www.astro.com/astro-databank/Ferigo%2C_Carmen</adb_link>
+      <sourcenotes copyright="© Astrodienst AG / Astrodatabank">Bordoni quotes her B.C. in a letter of 4/1992\n</sourcenotes>
+    </text_data>
+    <research_data>
+      <categories count="1" note="© Astrodienst AG / Astrodatabank">
+        <category cat_id="275" adb_id="1020" catnotes="Killed her baby">Passions : Criminal Perpetrator : Homicide single</category>
+      </categories>
+      <relationships count="1" note="© Astrodienst AG / Astrodatabank">
+        <relationship rel_id="848" rel_adb_id="1021" adb_id="1020" relcat="Family">parent-&gt;child relationship with Ferigo, Carole Palermo, born: 1990/08/13</relationship>
+      </relationships>
+      <events count="1" note="© Astrodienst AG / Astrodatabank">
+        <event sevcode="Crime : Homicide Perpetration" evn_id="785" adb_id="1020" evnotes="Killed her 17 month old daughter">
+          <event_data>
+            <sbdate ccalendar="g" iyear="1992" imonth="01" iday="15">1992/01/15</sbdate>
+            <sbdate_dmy>15 January 1992</sbdate_dmy>
+          </event_data>
+        </event>
+      </events>
+    </research_data>
+  </adb_entry>
+
+  <adb_entry adb_id="1021">
+    <update_timestamp itst="1457889706">2016-03-13T17:21:46Z</update_timestamp>
+    <public_data>
+      <name>Ferigo, Carole Palermo</name>
+      <sflname>Carole Palermo Ferigo</sflname>
+      <gender csex="f">F</gender>
+      <roddenrating rrc="1">AA</roddenrating>
+      <datatype sdatatype="Public Figure" dtc="1" sdatasource="Quoted BC/BR" dsc="2" />
+      <bdata>
+        <sbdate ccalendar="g" iyear="1990" imonth="8" iday="13">1990/08/13</sbdate>
+        <sbdate_dmy>13 August 1990</sbdate_dmy>
+        <sbtime sbtime_ampm="5:30 PM" ctimetype="d" stimetype="daylight saving time" stmerid="h2e" ctzauto="a" jd_ut="2448117.145833" sznabbr="MEDT">17:30</sbtime>
+        <place slati="45n28" slong="9e12">Milano</place>
+        <country sctr="ITALY">Italy</country>
+        <positions sun_sign="leo" sun_degmin="20°37" moon_sign="tau" moon_degmin="20°24" asc_sign="sag" asc_degmin="27°36" />
+      </bdata>
+      <scollector>Bordoni</scollector>
+      <seditor>LMR</seditor>
+      <sbiographer>lmr</sbiographer>
+      <screationdate>1996/12/08</screationdate>
+      <slasteditdate>2016/03/13</slasteditdate>
+    </public_data>
+    <text_data>
+      <shortbiography copyright="© Astrodienst AG / Astrodatabank">Italian homicide victim, at 17 months killed by her mom in Milan, ...</shortbiography>
+      <adb_link>http://www.astro.com/astro-databank/Ferigo%2C_Carole_Palermo</adb_link>
+      <sourcenotes copyright="© Astrodienst AG / Astrodatabank">Bordoni quotes her B.C. in a letter of 4/1992\n</sourcenotes>
+    </text_data>
+    <research_data>
+      <categories count="2" note="© Astrodienst AG / Astrodatabank">
+        <category cat_id="276" adb_id="1021" catnotes="Killed by mom">Passions : Criminal Victim : Homicide victim</category>
+        <category cat_id="630" adb_id="1021" catnotes="Age 17 months">Personal : Death : Short Life less than 29 Yrs</category>
+      </categories>
+      <relationships count="1" note="© Astrodienst AG / Astrodatabank">
+        <relationship rel_id="845" rel_adb_id="1020" adb_id="1021" relcat="Family">child-&gt;parent relationship with Ferigo, Carmen, born: 1962/11/15</relationship>
+      </relationships>
+      <events count="1" note="© Astrodienst AG / Astrodatabank">
+        <event sevcode="Death by Homicide" evn_id="769" adb_id="1021" evnotes="Killed by mother, 17 months">
+          <event_data>
+            <sbdate ccalendar="g" iyear="1992" imonth="01" iday="15">1992/01/15</sbdate>
+            <sbdate_dmy>15 January 1992</sbdate_dmy>
+          </event_data>
+        </event>
+      </events>
+    </research_data>
+  </adb_entry>
+
+  <adb_entry adb_id="1022">
+    <update_timestamp itst="1385557364">2013-11-27T13:02:44Z</update_timestamp>
+    <public_data>
+      <name>Ferioli, Corrado</name>
+      <sflname>Corrado Ferioli</sflname>
+      <gender csex="m">M</gender>
+      <roddenrating rrc="1">AA</roddenrating>
+      <datatype sdatatype="Public Figure" dtc="1" sdatasource="Quoted BC/BR" dsc="2" />
+      <bdata>
+        <sbdate ccalendar="g" iyear="1970" imonth="3" iday="26">1970/03/26</sbdate>
+        <sbdate_dmy>26 March 1970</sbdate_dmy>
+        <sbtime sbtime_ampm="09:00 AM" ctimetype="s" stimetype="standard time" stmerid="h1e" ctzauto="a" jd_ut="2440671.833333" sznabbr="MET">09:00</sbtime>
+        <place slati="46n0" slong="8e44">Luino</place>
+        <country sctr="ITALY">Italy</country>
+        <positions sun_sign="ari" sun_degmin="05°15" moon_sign="sco" moon_degmin="13°25" asc_sign="gem" asc_degmin="08°09" />
+      </bdata>
+      <scollector>Bordoni</scollector>
+      <seditor>LMR</seditor>
+      <sbiographer>lmr</sbiographer>
+      <screationdate>1996/12/08</screationdate>
+      <slasteditdate>2013/11/27</slasteditdate>
+    </public_data>
+    <text_data>
+      <shortbiography copyright="© Astrodienst AG / Astrodatabank">Italian drug addict, killed his parents November 1991 as he didn't want to go ...</shortbiography>
+      <adb_link>http://www.astro.com/astro-databank/Ferioli%2C_Corrado</adb_link>
+      <sourcenotes copyright="© Astrodienst AG / Astrodatabank">Bordoni quotes B.C.\n</sourcenotes>
+    </text_data>
+    <research_data>
+      <categories count="2" note="© Astrodienst AG / Astrodatabank">
+        <category cat_id="70" adb_id="1022">Diagnoses : Psychological : Abuse Drugs</category>
+        <category cat_id="273" adb_id="1022" catnotes="Killed his parents">Passions : Criminal Perpetrator : Homicide many at once</category>
+      </categories>
+      <relationships count="4" note="© Astrodienst AG / Astrodatabank">
+        <relationship rel_id="845" rel_adb_id="1024" adb_id="1022" relcat="Family">child-&gt;parent relationship with Ferioli, Fioravanti, born: 1944/08/31</relationship>
+        <relationship rel_id="845" rel_adb_id="1023" adb_id="1022" relcat="Family">child-&gt;parent relationship with Ferioli, Gigliola, born: 1950/01/27</relationship>
+        <relationship rel_id="869" rel_adb_id="1024" adb_id="1022" relcat="had as Victim">homicide victim relationship with Ferioli, Fioravanti, born: 1944/08/31</relationship>
+        <relationship rel_id="869" rel_adb_id="1023" adb_id="1022" relcat="had as Victim">homicide victim relationship with Ferioli, Gigliola, born: 1950/01/27</relationship>
+      </relationships>
+      <events count="1" note="© Astrodienst AG / Astrodatabank">
+        <event sevcode="Crime : Homicide Perpetration" evn_id="785" adb_id="1022" evnotes="Killed his parents">
+          <event_data>
+            <sbdate ccalendar="g" iyear="1991" imonth="12" iday="06">1991/12/06</sbdate>
+            <sbdate_dmy>6 December 1991</sbdate_dmy>
+            <place slati="44n50" slong="11e35">Ferrara</place>
+            <country sctr="ITALY">Italy</country>
+          </event_data>
+        </event>
+      </events>
+    </research_data>
+  </adb_entry>
+
+  <adb_entry adb_id="1023">
+    <update_timestamp itst="1457889883">2016-03-13T17:24:43Z</update_timestamp>
+    <public_data>
+      <name>Ferioli, Gigliola</name>
+      <sflname>Gigliola Ferioli</sflname>
+      <birthname>Fornasiero, Gigliola</birthname>
+      <gender csex="f">F</gender>
+      <roddenrating rrc="1">AA</roddenrating>
+      <datatype sdatatype="Public Figure" dtc="1" sdatasource="Quoted BC/BR" dsc="2" />
+      <bdata>
+        <sbdate ccalendar="g" iyear="1950" imonth="1" iday="27">1950/01/27</sbdate>
+        <sbdate_dmy>27 January 1950</sbdate_dmy>
+        <sbtime sbtime_ampm="07:00 AM" ctimetype="s" stimetype="standard time" stmerid="h1e" ctzauto="a" jd_ut="2433308.750000" sznabbr="MET">07:00</sbtime>
+        <place slati="45n1133" slong="11e3512">Ponso</place>
+        <country sctr="ITALY">Italy</country>
+        <positions sun_sign="aqu" sun_degmin="06°44" moon_sign="tau" moon_degmin="18°10" asc_sign="cap" asc_degmin="22°15" />
+      </bdata>
+      <scollector>Bordoni</scollector>
+      <seditor>LMR</seditor>
+      <sbiographer>lmr</sbiographer>
+      <screationdate>1996/12/08</screationdate>
+      <slasteditdate>2016/03/13</slasteditdate>
+    </public_data>
+    <text_data>
+      <shortbiography copyright="© Astrodienst AG / Astrodatabank">Italian homicide victim, killed by her drug-addicted son November ...</shortbiography>
+      <adb_link>http://www.astro.com/astro-databank/Ferioli%2C_Gigliola</adb_link>
+      <sourcenotes copyright="© Astrodienst AG / Astrodatabank">Bordoni quotes B.C.\n</sourcenotes>
+    </text_data>
+    <research_data>
+      <categories count="2" note="© Astrodienst AG / Astrodatabank">
+        <category cat_id="201" adb_id="1023" catnotes="Drug-addicted son">Family : Parenting : Hardship - Little money</category>
+        <category cat_id="276" adb_id="1023" catnotes="Killed by son">Passions : Criminal Victim : Homicide victim</category>
+      </categories>
+      <relationships count="3" note="© Astrodienst AG / Astrodatabank">
+        <relationship rel_id="848" rel_adb_id="1022" adb_id="1023" relcat="Family">parent-&gt;child relationship with Ferioli, Corrado, born: 1970/03/26</relationship>
+        <relationship rel_id="843" rel_adb_id="1024" adb_id="1023" relcat="Family" relnotes="Killed the same day by Corrado Ferioli.">spouse relationship with Ferioli, Fioravanti, born: 1944/08/31</relationship>
+        <relationship rel_id="871" rel_adb_id="1022" adb_id="1023" relcat="acted on by Criminal">homicide perpetrator relationship with Ferioli, Corrado, born: 1970/03/26</relationship>
+      </relationships>
+      <events count="1" note="© Astrodienst AG / Astrodatabank">
+        <event sevcode="Death by Homicide" evn_id="769" adb_id="1023" evnotes="Killed by son, age 41">
+          <event_data>
+            <sbdate ccalendar="g" iyear="1991" imonth="12" iday="06">1991/12/06</sbdate>
+            <sbdate_dmy>6 December 1991</sbdate_dmy>
+            <place slati="44n50" slong="11e35">Ferrara</place>
+            <country sctr="ITALY">Italy</country>
+          </event_data>
+        </event>
+      </events>
+    </research_data>
+  </adb_entry>
+
+  <adb_entry adb_id="1024">
+    <update_timestamp itst="1457890026">2016-03-13T17:27:06Z</update_timestamp>
+    <public_data>
+      <name>Ferioli, Fioravanti</name>
+      <sflname>Fioravanti Ferioli</sflname>
+      <gender csex="m">M</gender>
+      <roddenrating rrc="1">AA</roddenrating>
+      <datatype sdatatype="Public Figure" dtc="1" sdatasource="Quoted BC/BR" dsc="2" />
+      <bdata>
+        <sbdate ccalendar="g" iyear="1944" imonth="8" iday="31">1944/08/31</sbdate>
+        <sbdate_dmy>31 August 1944</sbdate_dmy>
+        <sbtime sbtime_ampm="10:00 PM" ctimetype="d" stimetype="daylight saving time" stmerid="h2e" ctzauto="a" jd_ut="2431334.333333" sznabbr="MEDT">22:00</sbtime>
+        <place slati="45n5657" slong="8e4449">Brissago Valtravaglia</place>
+        <country sctr="ITALY">Italy</country>
+        <positions sun_sign="vir" sun_degmin="08°16" moon_sign="aqu" moon_degmin="09°54" asc_sign="tau" asc_degmin="04°52" />
+      </bdata>
+      <scollector>Bordoni</scollector>
+      <seditor>LMR</seditor>
+      <sbiographer>lmr</sbiographer>
+      <screationdate>1996/12/08</screationdate>
+      <slasteditdate>2016/03/13</slasteditdate>
+    </public_data>
+    <text_data>
+      <shortbiography copyright="© Astrodienst AG / Astrodatabank">Italian homicide victim, killed by his drug-addicted son November ...</shortbiography>
+      <adb_link>http://www.astro.com/astro-databank/Ferioli%2C_Fioravanti</adb_link>
+      <sourcenotes copyright="© Astrodienst AG / Astrodatabank">Bordoni quotes B.C.\n</sourcenotes>
+    </text_data>
+    <research_data>
+      <categories count="2" note="© Astrodienst AG / Astrodatabank">
+        <category cat_id="201" adb_id="1024" catnotes="Drug-addicted son">Family : Parenting : Hardship - Little money</category>
+        <category cat_id="276" adb_id="1024" catnotes="Killed by son">Passions : Criminal Victim : Homicide victim</category>
+      </categories>
+      <relationships count="3" note="© Astrodienst AG / Astrodatabank">
+        <relationship rel_id="848" rel_adb_id="1022" adb_id="1024" relcat="Family">parent-&gt;child relationship with Ferioli, Corrado, born: 1970/03/26</relationship>
+        <relationship rel_id="843" rel_adb_id="1023" adb_id="1024" relcat="Family" relnotes="Killed the same day by Corrado Ferioli.">spouse relationship with Ferioli, Gigliola, born: 1950/01/27</relationship>
+        <relationship rel_id="871" rel_adb_id="1022" adb_id="1024" relcat="acted on by Criminal">homicide perpetrator relationship with Ferioli, Corrado, born: 1970/03/26</relationship>
+      </relationships>
+      <events count="1" note="© Astrodienst AG / Astrodatabank">
+        <event sevcode="Death by Homicide" evn_id="769" adb_id="1024" evnotes="Killed by his son, age 47">
+          <event_data>
+            <sbdate ccalendar="g" iyear="1991" imonth="12" iday="06">1991/12/06</sbdate>
+            <sbdate_dmy>6 December 1991</sbdate_dmy>
+            <place slati="44n50" slong="11e35">Ferrara</place>
+            <country sctr="ITALY">Italy</country>
+          </event_data>
+        </event>
+      </events>
+    </research_data>
+  </adb_entry>
+
+
+
+  <adb_entry adb_id="1027">
+    <update_timestamp itst="1424252694">2015-02-18T09:44:54Z</update_timestamp>
+    <public_data>
+      <name>Ferrero, Michele</name>
+      <sflname>Michele Ferrero</sflname>
+      <gender csex="m">M</gender>
+      <roddenrating rrc="1">AA</roddenrating>
+      <datatype sdatatype="Public Figure" dtc="1" sdatasource="Quoted BC/BR" dsc="2" />
+      <bdata>
+        <sbdate ccalendar="g" iyear="1925" imonth="4" iday="26">1925/04/26</sbdate>
+        <sbdate_dmy>26 April 1925</sbdate_dmy>
+        <sbtime sbtime_ampm="11:30 AM" ctimetype="s" stimetype="standard time" stmerid="h1e" ctzauto="u" jd_ut="2424266.937500" sznabbr="MET">11:30</sbtime>
+        <place slati="44n24" slong="7e33">Ogliani</place>
+        <country sctr="">Italy</country>
+        <positions sun_sign="tau" sun_degmin="05°40" moon_sign="gem" moon_degmin="14°19" asc_sign="leo" asc_degmin="06°01" />
+      </bdata>
+      <scollector>Bordoni</scollector>
+      <seditor>LMR</seditor>
+      <sbiographer>lmr</sbiographer>
+      <screationdate>1996/12/08</screationdate>
+      <slasteditdate>2015/02/18</slasteditdate>
+    </public_data>
+    <text_data>
+      <shortbiography copyright="© Astrodienst AG / Astrodatabank and © Wikipedia">Italian industrialist, a manufacturer of sweets, confections and ...</shortbiography>
+      <wikipedia_link>https://en.wikipedia.org/Michele_Ferrero</wikipedia_link>
+      <adb_link>http://www.astro.com/astro-databank/Ferrero%2C_Michele</adb_link>
+      <sourcenotes copyright="© Astrodienst AG / Astrodatabank">Bordoni quotes B.C.\n</sourcenotes>
+    </text_data>
+    <research_data>
+      <categories count="2" note="© Astrodienst AG / Astrodatabank">
+        <category cat_id="360" adb_id="1027" catnotes="Manufacturer of confections">Vocation : Business : Entrepreneur</category>
+        <category cat_id="418" adb_id="1027">Vocation : Food and Beverage : Baker/ Confections</category>
+      </categories>
+      <events count="1" note="© Astrodienst AG / Astrodatabank">
+        <event sevcode="Death, Cause unspecified" evn_id="771" adb_id="1027">
+          <event_data>
+            <sbdate ccalendar="g" iyear="2015" imonth="02" iday="14">2015/02/14</sbdate>
+            <sbdate_dmy>14 February 2015</sbdate_dmy>
+          </event_data>
+        </event>
+      </events>
+    </research_data>
+  </adb_entry>
+
+
+
+  <adb_entry adb_id="1030">
+    <update_timestamp itst="1348198194">2012-09-21T03:29:54Z</update_timestamp>
+    <public_data>
+      <name>Fingers, Rollie</name>
+      <sflname>Rollie Fingers</sflname>
+      <birthname>Roland Glen Fingers</birthname>
+      <gender csex="m">M</gender>
+      <roddenrating rrc="1">AA</roddenrating>
+      <datatype sdatatype="Public Figure" dtc="1" sdatasource="BC/BR in hand" dsc="1" />
+      <bdata>
+        <sbdate ccalendar="g" iyear="1946" imonth="8" iday="25">1946/08/25</sbdate>
+        <sbdate_dmy>25 August 1946</sbdate_dmy>
+        <sbtime sbtime_ampm="03:20 AM" ctimetype="d" stimetype="daylight saving time" stmerid="h4w" ctzauto="a" jd_ut="2432057.805556" sznabbr="EDT">03:20</sbtime>
+        <place slati="40n22" slong="80w38">Steubenville</place>
+        <country sctr="OH (US)">Ohio</country>
+        <positions sun_sign="vir" sun_degmin="01°29" moon_sign="leo" moon_degmin="11°02" asc_sign="can" asc_degmin="20°36" />
+      </bdata>
+      <scollector>Przybylowski</scollector>
+      <seditor>LMR</seditor>
+      <sbiographer>lmr</sbiographer>
+      <screationdate>1996/12/08</screationdate>
+      <slasteditdate>2012/09/21</slasteditdate>
+    </public_data>
+    <text_data>
+      <shortbiography copyright="© Astrodienst AG / Astrodatabank and © Wikipedia">American baseball player, a right-handed pitcher who played for the Oakland ...</shortbiography>
+      <wikipedia_link>https://en.wikipedia.org/Rollie_Fingers</wikipedia_link>
+      <adb_link>http://www.astro.com/astro-databank/Fingers%2C_Rollie</adb_link>
+      <sourcenotes copyright="© Astrodienst AG / Astrodatabank">B.C. in hand from Stephen Przybylowski\n</sourcenotes>
+    </text_data>
+    <research_data>
+      <categories count="8" note="© Astrodienst AG / Astrodatabank">
+        <category cat_id="7" adb_id="1030" catnotes="Noted handlebar mustache">Traits : Body : Hair</category>
+        <category cat_id="10" adb_id="1030" catnotes="Height of 6' 4&quot;">Traits : Body : Size</category>
+        <category cat_id="199" adb_id="1030" catnotes="One daughter and two sons">Family : Parenting : Kids 1-3</category>
+        <category cat_id="325" adb_id="1030" catnotes="Baseball team">Lifestyle : Work : Work in team/ Tandem</category>
+        <category cat_id="370" adb_id="1030" catnotes="Baseball cards">Vocation : Business/Marketing : Sales</category>
+        <category cat_id="527" adb_id="1030" catnotes="Relief pitcher">Vocation : Sports : Baseball</category>
+        <category cat_id="1032" adb_id="1030" catnotes="Team World Series">Notable : Awards : Sports Championship</category>
+        <category cat_id="907" adb_id="1030" catnotes="MVP award">Notable : Awards : Vocational award</category>
+      </categories>
+      <relationships count="2" note="© Astrodienst AG / Astrodatabank">
+        <relationship rel_id="840" rel_adb_id="10175" adb_id="1030" relcat="Associates" relnotes="Team mates with the Oakland Athletics">business associate/partner relationship with Hunter, Catfish, born: 1946/04/08</relationship>
+        <relationship rel_id="944" rel_adb_id="1031" adb_id="1030" relcat="Hierarchical">(has as) boss relationship with Finley, Charles, born: 1918/02/22</relationship>
+      </relationships>
+      <events count="6" note="© Astrodienst AG / Astrodatabank">
+        <event sevcode="Work : New Job" evn_id="822" adb_id="1030" evnotes="Major League Baseball debut">
+          <event_data>
+            <sbdate ccalendar="g" iyear="1968" imonth="09" iday="15">1968/09/15</sbdate>
+            <sbdate_dmy>15 September 1968</sbdate_dmy>
+            <place slati="42n20" slong="83w03">Detroit</place>
+            <country sctr="MI (US)">Mi (us)</country>
+          </event_data>
+        </event>
+        <event sevcode="Work : Prize" evn_id="823" adb_id="1030" evnotes="Won World Series with the Oakland Athletics">
+          <event_data>
+            <sbdate ccalendar="g" iyear="1972" imonth="10" iday="22">1972/10/22</sbdate>
+            <sbdate_dmy>22 October 1972</sbdate_dmy>
+            <place slati="39n10" slong="84w27">Cincinnati</place>
+            <country sctr="OH (US)">Oh (us)</country>
+          </event_data>
+        </event>
+        <event sevcode="Work : Prize" evn_id="823" adb_id="1030" evnotes="Won World Series with the Oakland Athletics">
+          <event_data>
+            <sbdate ccalendar="g" iyear="1973" imonth="10" iday="21">1973/10/21</sbdate>
+            <sbdate_dmy>21 October 1973</sbdate_dmy>
+            <place slati="37n48" slong="122w16">Oakland</place>
+            <country sctr="CA (US)">Ca (us)</country>
+          </event_data>
+        </event>
+        <event sevcode="Work : Prize" evn_id="823" adb_id="1030" evnotes="MVP award">
+          <event_data>
+            <sbdate ccalendar="g" iyear="1974" imonth="00" iday="00">1974/00/00</sbdate>
+            <sbdate_dmy>1974</sbdate_dmy>
+          </event_data>
+        </event>
+        <event sevcode="Work : Prize" evn_id="823" adb_id="1030" evnotes="Won World Series with the Oakland Athletics">
+          <event_data>
+            <sbdate ccalendar="g" iyear="1974" imonth="10" iday="17">1974/10/17</sbdate>
+            <sbdate_dmy>17 October 1974</sbdate_dmy>
+            <place slati="37n48" slong="122w16">Oakland</place>
+            <country sctr="CA (US)">Ca (us)</country>
+          </event_data>
+        </event>
+        <event sevcode="Work : Retired" evn_id="2869" adb_id="1030" evnotes="Final Major League Baseball game">
+          <event_data>
+            <sbdate ccalendar="g" iyear="1985" imonth="09" iday="17">1985/09/17</sbdate>
+            <sbdate_dmy>17 September 1985</sbdate_dmy>
+            <place slati="43n02" slong="87w54">Milwaukee</place>
+            <country sctr="WI (US)">Wi (us)</country>
+          </event_data>
+        </event>
+      </events>
+    </research_data>
+  </adb_entry>
+
+  <adb_entry adb_id="1031">
+    <update_timestamp itst="1348198239">2012-09-21T03:30:39Z</update_timestamp>
+    <public_data>
+      <name>Finley, Charles</name>
+      <sflname>Charles Finley</sflname>
+      <gender csex="m">M</gender>
+      <roddenrating rrc="1">AA</roddenrating>
+      <datatype sdatatype="Public Figure" dtc="1" sdatasource="Quoted BC/BR" dsc="2" />
+      <bdata>
+        <sbdate ccalendar="g" iyear="1918" imonth="2" iday="22">1918/02/22</sbdate>
+        <sbdate_dmy>22 February 1918</sbdate_dmy>
+        <sbtime sbtime_ampm="01:00 AM" ctimetype="s" stimetype="standard time" stmerid="h6w" ctzauto="a" jd_ut="2421646.791667" sznabbr="CST">01:00</sbtime>
+        <place slati="33n31" slong="86w53">Ensley</place>
+        <country sctr="AL (US)">Alabama</country>
+        <positions sun_sign="pis" sun_degmin="02°52" moon_sign="can" moon_degmin="22°55" asc_sign="sag" asc_degmin="06°20" />
+      </bdata>
+      <scollector>CAH</scollector>
+      <seditor>LMR</seditor>
+      <sbiographer>LMR</sbiographer>
+      <screationdate>1996/12/08</screationdate>
+      <slasteditdate>2012/09/21</slasteditdate>
+    </public_data>
+    <text_data>
+      <shortbiography copyright="© Astrodienst AG / Astrodatabank and © Wikipedia">American former owner of the Oakland Athletics Baseball team who became an ...</shortbiography>
+      <wikipedia_link>https://en.wikipedia.org/Charlie_Finley</wikipedia_link>
+      <adb_link>http://www.astro.com/astro-databank/Finley%2C_Charles</adb_link>
+      <sourcenotes copyright="© Astrodienst AG / Astrodatabank">Contemporary American Horoscopes\n</sourcenotes>
+    </text_data>
+    <research_data>
+      <categories count="6" note="© Astrodienst AG / Astrodatabank">
+        <category cat_id="86" adb_id="1031" catnotes="Acid-tongued, controversial">Traits : Personality : Aggressive/ brash</category>
+        <category cat_id="994" adb_id="1031" catnotes="Explosive">Traits : Personality : Temper</category>
+        <category cat_id="193" adb_id="1031" catnotes="38-years, divorced">Family : Relationship : Marriage more than 15 Yrs</category>
+        <category cat_id="198" adb_id="1031" catnotes="Seven">Family : Parenting : Kids more than 3</category>
+        <category cat_id="366" adb_id="1031">Vocation : Business : Insurance fields</category>
+        <category cat_id="895" adb_id="1031" catnotes="Owner of Oakland A's">Vocation : Sports Business : Other Sports Business</category>
+      </categories>
+      <relationships count="2" note="© Astrodienst AG / Astrodatabank">
+        <relationship rel_id="945" rel_adb_id="1030" adb_id="1031" relcat="Hierarchical">(has as) worker relationship with Fingers, Rollie, born: 1946/08/25</relationship>
+        <relationship rel_id="945" rel_adb_id="10175" adb_id="1031" relcat="Hierarchical">(has as) worker relationship with Hunter, Catfish, born: 1946/04/08</relationship>
+      </relationships>
+      <events count="4" note="© Astrodienst AG / Astrodatabank">
+        <event sevcode="Relationship : Marriage" evn_id="810" adb_id="1031" evnotes="38 years">
+          <event_data>
+            <sbdate ccalendar="g" iyear="1941" imonth="05" iday="09">1941/05/09</sbdate>
+            <sbdate_dmy>9 May 1941</sbdate_dmy>
+          </event_data>
+        </event>
+        <event sevcode="Work : Contracts, agreements" evn_id="818" adb_id="1031" evnotes="Purchased controlling interesting in the Kansas City Athletics">
+          <event_data>
+            <sbdate ccalendar="g" iyear="1960" imonth="12" iday="19">1960/12/19</sbdate>
+            <sbdate_dmy>19 December 1960</sbdate_dmy>
+            <place slati="39n06" slong="94w35">Kansas City</place>
+            <country sctr="MO (US)">Mo (us)</country>
+          </event_data>
+        </event>
+        <event sevcode="Relationship : Divorce dates" evn_id="811" adb_id="1031" evnotes="After 38 years">
+          <event_data>
+            <sbdate ccalendar="g" iyear="1979" imonth="00" iday="00">1979/00/00</sbdate>
+            <sbdate_dmy>1979</sbdate_dmy>
+          </event_data>
+        </event>
+        <event sevcode="Death, Cause unspecified" evn_id="771" adb_id="1031" evnotes="Age 77">
+          <event_data>
+            <sbdate ccalendar="g" iyear="1996" imonth="02" iday="19">1996/02/19</sbdate>
+            <sbdate_dmy>19 February 1996</sbdate_dmy>
+            <place slati="41n51" slong="87w39">Chicago</place>
+            <country sctr="IL (US)">Il (us)</country>
+          </event_data>
+        </event>
+      </events>
+    </research_data>
+  </adb_entry>
+
+  <adb_entry adb_id="1032">
+    <update_timestamp itst="1238889600">2009-04-05T00:00:00Z</update_timestamp>
+    <public_data>
+      <name>Fiora, Marco</name>
+      <sflname>Marco Fiora</sflname>
+      <gender csex="m">M</gender>
+      <roddenrating rrc="4">C</roddenrating>
+      <datatype sdatatype="Public Figure" dtc="1" sdatasource="Orig source not known" dsc="7" />
+      <bdata>
+        <sbdate ccalendar="g" iyear="1980" imonth="2" iday="16">1980/02/16</sbdate>
+        <sbdate_dmy>16 February 1980</sbdate_dmy>
+        <sbtime sbtime_ampm="11:40 AM" ctimetype="s" stimetype="standard time" stmerid="h1e" ctzauto="u" jd_ut="2444285.944444" sznabbr="MET">11:40</sbtime>
+        <place slati="45n03" slong="7e40">Torino</place>
+        <country sctr="">Italy</country>
+        <positions sun_sign="aqu" sun_degmin="26°55" moon_sign="aqu" moon_degmin="27°59" asc_sign="gem" asc_degmin="08°31" />
+      </bdata>
+      <scollector>Bordoni</scollector>
+      <seditor>LMR</seditor>
+      <sbiographer>lmr</sbiographer>
+      <screationdate>1996/12/08</screationdate>
+      <slasteditdate>2009/04/05</slasteditdate>
+    </public_data>
+    <text_data>
+      <shortbiography copyright="© Astrodienst AG / Astrodatabank">Italian boy who was kidnapped in 1987.  He was released on 8/02/1988, ...</shortbiography>
+      <adb_link>http://www.astro.com/astro-databank/Fiora%2C_Marco</adb_link>
+      <sourcenotes copyright="© Astrodienst AG / Astrodatabank">Bordoni quotes Mirti\n</sourcenotes>
+    </text_data>
+    <research_data>
+      <categories count="3" note="© Astrodienst AG / Astrodatabank">
+        <category cat_id="66" adb_id="1032" catnotes="Devastated after being kidnapped">Diagnoses : Psychological : Anxiety Disorder</category>
+        <category cat_id="278" adb_id="1032" catnotes="Age seven">Passions : Criminal Victim : Kidnapping victim</category>
+        <category cat_id="635" adb_id="1032">Notable : Book Collection : Crime Collection</category>
+      </categories>
+      <events count="2" note="© Astrodienst AG / Astrodatabank">
+        <event sevcode="Crime : Kidnap Victimization" evn_id="788" adb_id="1032" evnotes="Devastated by kidnappers">
+          <event_data>
+            <sbdate ccalendar="g" iyear="1987" imonth="00" iday="00">1987/00/00</sbdate>
+            <sbdate_dmy>1987</sbdate_dmy>
+          </event_data>
+        </event>
+        <event sevcode="Other Crime" evn_id="793" adb_id="1032" evnotes="Released by kidnappers">
+          <event_data>
+            <sbdate ccalendar="g" iyear="1988" imonth="08" iday="02">1988/08/02</sbdate>
+            <sbdate_dmy>2 August 1988</sbdate_dmy>
+          </event_data>
+        </event>
+      </events>
+    </research_data>
+  </adb_entry>
+
+  <adb_entry adb_id="1033">
+    <update_timestamp itst="984096000">2001-03-09T00:00:00Z</update_timestamp>
+    <public_data>
+      <name>Fisher, Vera</name>
+      <sflname>Vera Fisher</sflname>
+      <gender csex="f">F</gender>
+      <roddenrating rrc="2">A</roddenrating>
+      <datatype sdatatype="Public Figure" dtc="1" sdatasource="News report" dsc="4" />
+      <bdata>
+        <sbdate ccalendar="g" iyear="1951" imonth="11" iday="27">1951/11/27</sbdate>
+        <sbdate_dmy>27 November 1951</sbdate_dmy>
+        <sbtime sbtime_ampm="4:00 PM" ctimetype="s" stimetype="standard time" stmerid="h3w" ctzauto="u" jd_ut="2433978.291667" sznabbr="BZT">16:00</sbtime>
+        <place slati="26s56" slong="49w03">Blumenau</place>
+        <country sctr="">Brazil</country>
+        <positions sun_sign="sag" sun_degmin="04°44" moon_sign="sco" moon_degmin="17°33" asc_sign="ari" asc_degmin="28°15" />
+      </bdata>
+      <scollector>Borges</scollector>
+      <seditor>LMR</seditor>
+      <sbiographer>lmr</sbiographer>
+      <screationdate>1996/12/08</screationdate>
+      <slasteditdate>2001/03/09</slasteditdate>
+    </public_data>
+    <text_data>
+      <shortbiography copyright="© Astrodienst AG / Astrodatabank">Brazilian Beauty Queen, a beautiful blonde with blue eyes, Miss Brazil of 1969. ...</shortbiography>
+      <adb_link>http://www.astro.com/astro-databank/Fisher%2C_Vera</adb_link>
+      <sourcenotes copyright="© Astrodienst AG / Astrodatabank">Marcello Borges quotes her in an article\n</sourcenotes>
+    </text_data>
+    <research_data>
+      <categories count="10" note="© Astrodienst AG / Astrodatabank">
+        <category cat_id="934" adb_id="1033">Traits : Body : Appearance gorgeous</category>
+        <category cat_id="7" adb_id="1033" catnotes="Blonde">Traits : Body : Hair</category>
+        <category cat_id="188" adb_id="1033" catnotes="Two">Family : Relationship : Number of Marriages</category>
+        <category cat_id="192" adb_id="1033" catnotes="Second marriage tumultuous">Family : Relationship : Stress - Chronic misery</category>
+        <category cat_id="199" adb_id="1033" catnotes="One daughter">Family : Parenting : Kids 1-3</category>
+        <category cat_id="340" adb_id="1033" catnotes="Queen">Vocation : Beauty : Beauty Queen/ King</category>
+        <category cat_id="339" adb_id="1033">Vocation : Beauty : Model</category>
+        <category cat_id="338" adb_id="1033" catnotes="Nude pictorials">Vocation : Beauty : Sex-symbol</category>
+        <category cat_id="402" adb_id="1033">Vocation : Entertainment : Actor/ Actress</category>
+        <category cat_id="907" adb_id="1033" catnotes="Miss Brazil">Notable : Awards : Vocational award</category>
+      </categories>
+      <events count="1" note="© Astrodienst AG / Astrodatabank">
+        <event sevcode="Work : Prize" evn_id="823" adb_id="1033" evnotes="Miss Brazil">
+          <event_data>
+            <sbdate ccalendar="g" iyear="1969" imonth="00" iday="00">1969/00/00</sbdate>
+            <sbdate_dmy>1969</sbdate_dmy>
+          </event_data>
+        </event>
+      </events>
+    </research_data>
+  </adb_entry>
+
+  <adb_entry adb_id="1034">
+    <update_timestamp itst="1074038400">2004-01-14T00:00:00Z</update_timestamp>
+    <public_data>
+      <name>Flesher, Moses</name>
+      <sflname>Moses Flesher</sflname>
+      <gender csex="m">M</gender>
+      <roddenrating rrc="1">AA</roddenrating>
+      <datatype sdatatype="Public Figure" dtc="1" sdatasource="BC/BR in hand" dsc="1" />
+      <bdata>
+        <sbdate ccalendar="g" iyear="1942" imonth="12" iday="5">1942/12/05</sbdate>
+        <sbdate_dmy>5 December 1942</sbdate_dmy>
+        <sbtime sbtime_ampm="05:15 AM" ctimetype="w" stimetype="war time" stmerid="h5w" ctzauto="u" jd_ut="2430698.927083" sznabbr="CWT">05:15</sbtime>
+        <place slati="32n21" slong="90w53">Vicksburg MS</place>
+        <country sctr="">USA</country>
+        <positions sun_sign="sag" sun_degmin="12°39" moon_sign="sco" moon_degmin="06°00" asc_sign="sco" asc_degmin="09°21" />
+      </bdata>
+      <scollector>Rodden</scollector>
+      <seditor>LMR</seditor>
+      <sbiographer>LMR</sbiographer>
+      <screationdate>1996/12/08</screationdate>
+      <slasteditdate>2004/01/14</slasteditdate>
+    </public_data>
+    <text_data>
+      <shortbiography copyright="© Astrodienst AG / Astrodatabank">American employee of C&amp;H Sugar Co in Crockett, CA.  During processing, the hot ...</shortbiography>
+      <adb_link>http://www.astro.com/astro-databank/Flesher%2C_Moses</adb_link>
+      <sourcenotes copyright="© Astrodienst AG / Astrodatabank">B.C. in hand from Kathryn Farmer\n</sourcenotes>
+    </text_data>
+    <research_data>
+      <categories count="7" note="© Astrodienst AG / Astrodatabank">
+        <category cat_id="9" adb_id="1034" catnotes="Black">Traits : Body : Race</category>
+        <category cat_id="13" adb_id="1034" catnotes="Burned by boiled sugar">Diagnoses : Body Part Problems : Accident/Injury</category>
+        <category cat_id="63" adb_id="1034" catnotes="Heavy, abusive">Diagnoses : Psychological : Abuse Alcohol</category>
+        <category cat_id="185" adb_id="1034" catnotes="Wife-beater">Family : Relationship : Stress - Domestic violence</category>
+        <category cat_id="199" adb_id="1034" catnotes="Three">Family : Parenting : Kids 1-3</category>
+        <category cat_id="295" adb_id="1034" catnotes="Massive burns">Personal : Death : Unusual</category>
+        <category cat_id="453" adb_id="1034" catnotes="Sugar processing plant">Vocation : Misc. : Factory work</category>
+      </categories>
+      <events count="2" note="© Astrodienst AG / Astrodatabank">
+        <event sevcode="Health : Accident (Non-fatal)" evn_id="743" adb_id="1034" evnotes="Burned by 150 degree sugar">
+          <event_data>
+            <sbdate ccalendar="g" iyear="1986" imonth="10" iday="03">1986/10/03</sbdate>
+            <sbdate_dmy>3 October 1986</sbdate_dmy>
+            <sbtime sbtime_ampm="3:00 PM" ctimetype="d" stimetype="" stmerid="h6w" sznabbr="PDT " itimeacc="2" stimeacc="">15:00</sbtime>
+            <place slati="38n03" slong="122w12">Crockett, CA                                      </place>
+            <country sctr=""></country>
+          </event_data>
+        </event>
+        <event sevcode="Death by Accident" evn_id="764" adb_id="1034" evnotes="Died of sugar burns, age 43">
+          <event_data>
+            <sbdate ccalendar="g" iyear="1986" imonth="10" iday="10">1986/10/10</sbdate>
+            <sbdate_dmy>10 October 1986</sbdate_dmy>
+          </event_data>
+        </event>
+      </events>
+    </research_data>
+  </adb_entry>
+
+  <adb_entry adb_id="1035">
+    <update_timestamp itst="997747200">2001-08-14T00:00:00Z</update_timestamp>
+    <public_data>
+      <name>Flight Attendant 1035</name>
+      <sflname>Flight Attendant 1035</sflname>
+      <gender csex="f">F</gender>
+      <roddenrating rrc="2">A</roddenrating>
+      <datatype sdatatype="Anonymous" dtc="4" sdatasource="From memory" dsc="3" />
+      <bdata>
+        <sbdate ccalendar="g" iyear="1953" imonth="9" iday="16">1953/09/16</sbdate>
+        <sbdate_dmy>16 September 1953</sbdate_dmy>
+        <sbtime sbtime_ampm="07:30 AM" ctimetype="s" stimetype="standard time" stmerid="h3w" ctzauto="u" jd_ut="2434636.937500" sznabbr="BZT">07:30</sbtime>
+        <place slati="29s39" slong="50w47">Taquara</place>
+        <country sctr="">Brazil</country>
+        <positions sun_sign="vir" sun_degmin="23°16" moon_sign="sag" moon_degmin="23°36" asc_sign="lib" asc_degmin="16°56" />
+      </bdata>
+      <scollector>Borges</scollector>
+      <seditor>LMR</seditor>
+      <sbiographer>lmr</sbiographer>
+      <screationdate>1996/12/08</screationdate>
+      <slasteditdate>2001/08/14</slasteditdate>
+    </public_data>
+    <text_data>
+      <shortbiography copyright="© Astrodienst AG / Astrodatabank">Brazilian flight attendant.</shortbiography>
+      <adb_link>http://www.astro.com/astro-databank/Flight_Attendant_1035</adb_link>
+      <sourcenotes copyright="© Astrodienst AG / Astrodatabank">Marcello Borges quotes her, client\n</sourcenotes>
+    </text_data>
+    <research_data>
+      <categories count="1" note="© Astrodienst AG / Astrodatabank">
+        <category cat_id="562" adb_id="1035">Vocation : Travel : Flight attendant</category>
+      </categories>
+    </research_data>
+  </adb_entry>
+
+  <adb_entry adb_id="1036">
+    <update_timestamp itst="997747200">2001-08-14T00:00:00Z</update_timestamp>
+    <public_data>
+      <name>Flight Attendant 1036</name>
+      <sflname>Flight Attendant 1036</sflname>
+      <gender csex="f">F</gender>
+      <roddenrating rrc="2">A</roddenrating>
+      <datatype sdatatype="Anonymous" dtc="4" sdatasource="From memory" dsc="3" />
+      <bdata>
+        <sbdate ccalendar="g" iyear="1958" imonth="3" iday="30">1958/03/30</sbdate>
+        <sbdate_dmy>30 March 1958</sbdate_dmy>
+        <sbtime sbtime_ampm="03:45 AM" ctimetype="s" stimetype="standard time" stmerid="h3w" ctzauto="u" jd_ut="2436292.781250" sznabbr="BZT">03:45</sbtime>
+        <place slati="23s32" slong="46w37">Sao Paulo</place>
+        <country sctr="">Brazil</country>
+        <positions sun_sign="ari" sun_degmin="09°04" moon_sign="leo" moon_degmin="01°44" asc_sign="pis" asc_degmin="04°17" />
+      </bdata>
+      <scollector>Borges</scollector>
+      <seditor>LMR</seditor>
+      <sbiographer>lmr</sbiographer>
+      <screationdate>1996/12/08</screationdate>
+      <slasteditdate>2001/08/14</slasteditdate>
+    </public_data>
+    <text_data>
+      <shortbiography copyright="© Astrodienst AG / Astrodatabank">Brazilian flight attendant.</shortbiography>
+      <adb_link>http://www.astro.com/astro-databank/Flight_Attendant_1036</adb_link>
+      <sourcenotes copyright="© Astrodienst AG / Astrodatabank">Marcello Borges quotes her, client\n</sourcenotes>
+    </text_data>
+    <research_data>
+      <categories count="1" note="© Astrodienst AG / Astrodatabank">
+        <category cat_id="562" adb_id="1036">Vocation : Travel : Flight attendant</category>
+      </categories>
+    </research_data>
+  </adb_entry>
+
+  <adb_entry adb_id="1037">
+    <update_timestamp itst="997747200">2001-08-14T00:00:00Z</update_timestamp>
+    <public_data>
+      <name>Flight Attendant 1037</name>
+      <sflname>Flight Attendant 1037</sflname>
+      <gender csex="f">F</gender>
+      <roddenrating rrc="2">A</roddenrating>
+      <datatype sdatatype="Anonymous" dtc="4" sdatasource="From memory" dsc="3" />
+      <bdata>
+        <sbdate ccalendar="g" iyear="1960" imonth="6" iday="13">1960/06/13</sbdate>
+        <sbdate_dmy>13 June 1960</sbdate_dmy>
+        <sbtime sbtime_ampm="12:00 noon" ctimetype="s" stimetype="standard time" stmerid="h3w" ctzauto="u" jd_ut="2437099.125000" sznabbr="BZT">12:00</sbtime>
+        <place slati="30s04" slong="51w11">Porto Alegre</place>
+        <country sctr="">Brazil</country>
+        <positions sun_sign="gem" sun_degmin="22°34" moon_sign="aqu" moon_degmin="19°49" asc_sign="vir" asc_degmin="09°30" />
+      </bdata>
+      <scollector>Borges</scollector>
+      <seditor>LMR</seditor>
+      <sbiographer>lmr</sbiographer>
+      <screationdate>1996/12/08</screationdate>
+      <slasteditdate>2001/08/14</slasteditdate>
+    </public_data>
+    <text_data>
+      <shortbiography copyright="© Astrodienst AG / Astrodatabank">Brazilian flight attendant.</shortbiography>
+      <adb_link>http://www.astro.com/astro-databank/Flight_Attendant_1037</adb_link>
+      <sourcenotes copyright="© Astrodienst AG / Astrodatabank">Marcello Borges quotes her, client\n</sourcenotes>
+    </text_data>
+    <research_data>
+      <categories count="1" note="© Astrodienst AG / Astrodatabank">
+        <category cat_id="562" adb_id="1037">Vocation : Travel : Flight attendant</category>
+      </categories>
+    </research_data>
+  </adb_entry>
+
+  <adb_entry adb_id="1038">
+    <update_timestamp itst="997747200">2001-08-14T00:00:00Z</update_timestamp>
+    <public_data>
+      <name>Flight Attendant 1038</name>
+      <sflname>Flight Attendant 1038</sflname>
+      <gender csex="f">F</gender>
+      <roddenrating rrc="2">A</roddenrating>
+      <datatype sdatatype="Anonymous" dtc="4" sdatasource="From memory" dsc="3" />
+      <bdata>
+        <sbdate ccalendar="g" iyear="1963" imonth="12" iday="5">1963/12/05</sbdate>
+        <sbdate_dmy>5 December 1963</sbdate_dmy>
+        <sbtime sbtime_ampm="12:55 PM" ctimetype="d" stimetype="daylight saving time" stmerid="h2w" ctzauto="u" jd_ut="2438369.121528" sznabbr="BZDT">12:55</sbtime>
+        <place slati="23s57" slong="46w20">Santos</place>
+        <country sctr="">Brazil</country>
+        <positions sun_sign="sag" sun_degmin="12°45" moon_sign="leo" moon_degmin="15°18" asc_sign="pis" asc_degmin="12°47" />
+      </bdata>
+      <scollector>Borges</scollector>
+      <seditor>LMR</seditor>
+      <sbiographer>lmr</sbiographer>
+      <screationdate>1996/12/08</screationdate>
+      <slasteditdate>2001/08/14</slasteditdate>
+    </public_data>
+    <text_data>
+      <shortbiography copyright="© Astrodienst AG / Astrodatabank">Brazilian flight attendant.</shortbiography>
+      <adb_link>http://www.astro.com/astro-databank/Flight_Attendant_1038</adb_link>
+      <sourcenotes copyright="© Astrodienst AG / Astrodatabank">Marcello Borges quotes her, client\n</sourcenotes>
+    </text_data>
+    <research_data>
+      <categories count="1" note="© Astrodienst AG / Astrodatabank">
+        <category cat_id="562" adb_id="1038">Vocation : Travel : Flight attendant</category>
+      </categories>
+    </research_data>
+  </adb_entry>
+
+  <adb_entry adb_id="1039">
+    <update_timestamp itst="1387061185">2013-12-14T22:46:25Z</update_timestamp>
+    <public_data>
+      <name>Folger, Abigail</name>
+      <sflname>Abigail Folger</sflname>
+      <birthname>Abigail Anne Folger</birthname>
+      <gender csex="f">F</gender>
+      <roddenrating rrc="1">AA</roddenrating>
+      <datatype sdatatype="Public Figure" dtc="1" sdatasource="Quoted BC/BR" dsc="2" />
+      <bdata>
+        <sbdate ccalendar="g" iyear="1943" imonth="8" iday="11">1943/08/11</sbdate>
+        <sbdate_dmy>11 August 1943</sbdate_dmy>
+        <sbtime sbtime_ampm="5:27 PM" ctimetype="w" stimetype="war time" stmerid="h7w" ctzauto="a" jd_ut="2430948.518750" sznabbr="PWT">17:27</sbtime>
+        <place slati="37n47" slong="122w25">San Francisco</place>
+        <country sctr="CA (US)">California</country>
+        <positions sun_sign="leo" sun_degmin="18°27" moon_sign="sag" moon_degmin="25°21" asc_sign="cap" asc_degmin="03°59" />
+      </bdata>
+      <scollector>CAH</scollector>
+      <seditor>LMR</seditor>
+      <sbiographer>lmr</sbiographer>
+      <screationdate>1996/12/08</screationdate>
+      <slasteditdate>2013/12/14</slasteditdate>
+    </public_data>
+    <text_data>
+      <shortbiography copyright="© Astrodienst AG / Astrodatabank and © Wikipedia">American noted family, the heiress to the Folger Coffee fortune and a ...</shortbiography>
+      <wikipedia_link>https://en.wikipedia.org/Abigail_Folger</wikipedia_link>
+      <adb_link>http://www.astro.com/astro-databank/Folger%2C_Abigail</adb_link>
+      <sourcenotes copyright="© Astrodienst AG / Astrodatabank">Contemporary American Horoscopes\n</sourcenotes>
+    </text_data>
+    <research_data>
+      <categories count="6" note="© Astrodienst AG / Astrodatabank">
+        <category cat_id="55" adb_id="1039" catnotes="Private schools, Radcliffe, Harvard">Traits : Mind : Education extensive</category>
+        <category cat_id="144" adb_id="1039" catnotes="Wealth and privilege">Family : Childhood : Advantaged</category>
+        <category cat_id="253" adb_id="1039" catnotes="Folger Coffee fortune">Lifestyle : Financial : Gain - Inheritance</category>
+        <category cat_id="276" adb_id="1039" catnotes="Stabbed">Passions : Criminal Victim : Homicide victim</category>
+        <category cat_id="437" adb_id="1039">Vocation : Healing Fields : Social worker</category>
+        <category cat_id="908" adb_id="1039" catnotes="Manson case">Notable : Famous : Criminal cases</category>
+      </categories>
+      <relationships count="5" note="© Astrodienst AG / Astrodatabank">
+        <relationship rel_id="857" rel_adb_id="7293" adb_id="1039" relcat="Associates">friend relationship with Polanski, Roman, born: 1933/08/18</relationship>
+        <relationship rel_id="857" rel_adb_id="7318" adb_id="1039" relcat="Associates" relnotes="Murdered together by the Manson &quot;family&quot;">friend relationship with Sebring, Jay, born: 1933/10/10</relationship>
+        <relationship rel_id="857" rel_adb_id="9305" adb_id="1039" relcat="Associates" relnotes="Murdered together by the Manson &quot;family&quot;">friend relationship with Tate, Sharon, born: 1943/01/24</relationship>
+        <relationship rel_id="858" rel_adb_id="58804" adb_id="1039" relcat="Associates">lover relationship with Marshall, Jim (photographer), born: 1936/02/03</relationship>
+        <relationship rel_id="871" rel_adb_id="1345" adb_id="1039" relcat="acted on by Criminal">homicide perpetrator relationship with Krenwinkel, Patricia, born: 1947/12/03</relationship>
+      </relationships>
+      <events count="2" note="© Astrodienst AG / Astrodatabank">
+        <event sevcode="Social : Great Publicity" evn_id="929" adb_id="1039" evnotes="Introduced as a debutante">
+          <event_data>
+            <sbdate ccalendar="g" iyear="1961" imonth="02" iday="21">1961/02/21</sbdate>
+            <sbdate_dmy>21 February 1961</sbdate_dmy>
+          </event_data>
+        </event>
+        <event sevcode="Death by Homicide" evn_id="769" adb_id="1039" evnotes="Stabbed 28 times, age 26 less two days">
+          <event_data>
+            <sbdate ccalendar="g" iyear="1969" imonth="08" iday="09">1969/08/09</sbdate>
+            <sbdate_dmy>9 August 1969</sbdate_dmy>
+            <sbtime sbtime_ampm="12:05 AM" ctimetype="d" stimetype="" stmerid="h7w" sznabbr="PDT" itimeacc="7" stimeacc="">00:05</sbtime>
+            <place slati="34n03" slong="118w15">Los Angeles</place>
+            <country sctr="CA (US)">Ca (us)</country>
+          </event_data>
+        </event>
+      </events>
+    </research_data>
+  </adb_entry>
+
+
+  <adb_entry adb_id="1041">
+    <update_timestamp itst="1028764800">2002-08-08T00:00:00Z</update_timestamp>
+    <public_data>
+      <name>Forsyth, Michael</name>
+      <sflname>Michael Forsyth</sflname>
+      <birthname>Forsyth, Michael Bruce</birthname>
+      <gender csex="m">M</gender>
+      <roddenrating rrc="1">AA</roddenrating>
+      <datatype sdatatype="Public Figure" dtc="1" sdatasource="Quoted BC/BR" dsc="2" />
+      <bdata>
+        <sbdate ccalendar="g" iyear="1954" imonth="10" iday="16">1954/10/16</sbdate>
+        <sbdate_dmy>16 October 1954</sbdate_dmy>
+        <sbtime sbtime_ampm="11:10 AM" ctimetype="s" stimetype="standard time" stmerid="h0w" ctzauto="u" jd_ut="2435031.965278" sznabbr="GMT">11:10</sbtime>
+        <place slati="56n43" slong="2w28">Montrose</place>
+        <country sctr="">Scotland</country>
+        <positions sun_sign="lib" sun_degmin="22°33" moon_sign="gem" moon_degmin="21°55" asc_sign="sag" asc_degmin="05°14" />
+      </bdata>
+      <scollector>Gerard</scollector>
+      <seditor>LMR</seditor>
+      <sbiographer>lmr</sbiographer>
+      <screationdate>1996/12/08</screationdate>
+      <slasteditdate>2002/08/08</slasteditdate>
+    </public_data>
+    <text_data>
+      <shortbiography copyright="© Astrodienst AG / Astrodatabank and © Wikipedia">Scottish politician, a Conservative Member of Parliament returned at General ...</shortbiography>
+      <wikipedia_link>https://en.wikipedia.org/Michael_Forsyth</wikipedia_link>
+      <adb_link>http://www.astro.com/astro-databank/Forsyth%2C_Michael</adb_link>
+      <sourcenotes copyright="© Astrodienst AG / Astrodatabank">Pulsar collection No.60 quotes B.C.\n</sourcenotes>
+    </text_data>
+    <research_data>
+      <categories count="1" note="© Astrodienst AG / Astrodatabank">
+        <category cat_id="500" adb_id="1041" catnotes="Conservative M.P.">Vocation : Politics : Public office</category>
+      </categories>
+      <events count="1" note="© Astrodienst AG / Astrodatabank">
+        <event sevcode="Work : Gain social status" evn_id="820" adb_id="1041" evnotes="Reelected to Parliament">
+          <event_data>
+            <sbdate ccalendar="g" iyear="1987" imonth="06" iday="11">1987/06/11</sbdate>
+            <sbdate_dmy>11 June 1987</sbdate_dmy>
+          </event_data>
+        </event>
+      </events>
+    </research_data>
+  </adb_entry>
+
+
+  <adb_entry adb_id="1043">
+    <update_timestamp itst="1013558400">2002-02-13T00:00:00Z</update_timestamp>
+    <public_data>
+      <name>Franchini, Graziella</name>
+      <sflname>Graziella Franchini</sflname>
+      <gender csex="f">F</gender>
+      <roddenrating rrc="1">AA</roddenrating>
+      <datatype sdatatype="Public Figure" dtc="1" sdatasource="Quoted BC/BR" dsc="2" />
+      <bdata>
+        <sbdate ccalendar="g" iyear="1950" imonth="1" iday="5">1950/01/05</sbdate>
+        <sbdate_dmy>5 January 1950</sbdate_dmy>
+        <sbtime sbtime_ampm="2:00 PM" ctimetype="s" stimetype="standard time" stmerid="h1e" ctzauto="u" jd_ut="2433287.041667" sznabbr="MET">14:00</sbtime>
+        <place slati="45n26" slong="11e00">Castagnara</place>
+        <country sctr="">Italy</country>
+        <positions sun_sign="cap" sun_degmin="14°38" moon_sign="can" moon_degmin="29°28" asc_sign="gem" asc_degmin="05°44" />
+      </bdata>
+      <scollector>Bordoni</scollector>
+      <seditor>LMR</seditor>
+      <sbiographer>lmr</sbiographer>
+      <screationdate>1996/12/08</screationdate>
+      <slasteditdate>2002/02/13</slasteditdate>
+    </public_data>
+    <text_data>
+      <shortbiography copyright="© Astrodienst AG / Astrodatabank">Italian singer who gave a benefit concert for abused kids in 1973.  She was, ...</shortbiography>
+      <adb_link>http://www.astro.com/astro-databank/Franchini%2C_Graziella</adb_link>
+      <sourcenotes copyright="© Astrodienst AG / Astrodatabank">Bordoni quotes B.C. Vol. 3\n</sourcenotes>
+    </text_data>
+    <research_data>
+      <categories count="4" note="© Astrodienst AG / Astrodatabank">
+        <category cat_id="259" adb_id="1043" catnotes="Benefit concert">Lifestyle : Financial : Philanthropist</category>
+        <category cat_id="276" adb_id="1043" catnotes="Stabbed">Passions : Criminal Victim : Homicide victim</category>
+        <category cat_id="400" adb_id="1043">Vocation : Entertain/Music : Vocalist/ Pop, Rock, etc.</category>
+        <category cat_id="635" adb_id="1043">Notable : Book Collection : Crime Collection</category>
+      </categories>
+      <events count="1" note="© Astrodienst AG / Astrodatabank">
+        <event sevcode="Death by Homicide" evn_id="769" adb_id="1043" evnotes="Beaten, knifed by ex-lover, age 36">
+          <event_data>
+            <sbdate ccalendar="g" iyear="1986" imonth="04" iday="28">1986/04/28</sbdate>
+            <sbdate_dmy>28 April 1986</sbdate_dmy>
+            <sbtime sbtime_ampm="01:00 AM" ctimetype="s" stimetype="" stmerid="" itimeacc="2" stimeacc="">01:00</sbtime>
+            <place slati="" slong="">Rome, Italy                                       </place>
+            <country sctr=""></country>
+          </event_data>
+        </event>
+      </events>
+    </research_data>
+  </adb_entry>
+
+  <adb_entry adb_id="1044">
+    <update_timestamp itst="1363296735">2013-03-14T21:32:15Z</update_timestamp>
+    <public_data>
+      <name>Francia, Suza</name>
+      <sflname>Suza Francia</sflname>
+      <gender csex="f">F</gender>
+      <roddenrating rrc="1">AA</roddenrating>
+      <datatype sdatatype="Public Figure" dtc="1" sdatasource="Quoted BC/BR" dsc="2" />
+      <bdata>
+        <sbdate ccalendar="g" iyear="1949" imonth="5" iday="24">1949/05/24</sbdate>
+        <sbdate_dmy>24 May 1949</sbdate_dmy>
+        <sbtime sbtime_ampm="06:40 AM" ctimetype="s" stimetype="standard time" stmerid="h1e" ctzauto="a" jd_ut="2433060.736111" sznabbr="MET">06:40</sbtime>
+        <place slati="52n05" slong="4e19">Den Haag</place>
+        <country sctr="NETH">Netherlands</country>
+        <positions sun_sign="gem" sun_degmin="02°43" moon_sign="ari" moon_degmin="21°01" asc_sign="can" asc_degmin="04°09" />
+      </bdata>
+      <scollector>Rodden</scollector>
+      <seditor>LMR</seditor>
+      <sbiographer>LMR</sbiographer>
+      <screationdate>1996/12/08</screationdate>
+      <slasteditdate>2013/03/14</slasteditdate>
+    </public_data>
+    <text_data>
+      <shortbiography copyright="© Astrodienst AG / Astrodatabank">Dutch-American yoga teacher using the Iyengar method.   Well known in yoga ...</shortbiography>
+      <adb_link>http://www.astro.com/astro-databank/Francia%2C_Suza</adb_link>
+      <sourcenotes copyright="© Astrodienst AG / Astrodatabank">Lilia Molina quotes her, 7/1992, B.C.  The Hague is the anglicized version of her birth place.\n</sourcenotes>
+    </text_data>
+    <research_data>
+      <categories count="3" note="© Astrodienst AG / Astrodatabank">
+        <category cat_id="176" adb_id="1044" catnotes="Netherlands to U.S.">Lifestyle : Home : Expatriate</category>
+        <category cat_id="377" adb_id="1044" catnotes="Yoga">Vocation : Education : Teacher</category>
+        <category cat_id="572" adb_id="1044" catnotes="Ojai Daily News">Vocation : Writers : Columnist/ journalist</category>
+      </categories>
+    </research_data>
+  </adb_entry>
+
+  <adb_entry adb_id="1045">
+    <update_timestamp itst="1457881949">2016-03-13T15:12:29Z</update_timestamp>
+    <public_data>
+      <name>Frank,  Hans</name>
+      <sflname> Hans Frank</sflname>
+      <gender csex="m">M</gender>
+      <roddenrating rrc="1">AA</roddenrating>
+      <datatype sdatatype="Public Figure" dtc="1" sdatasource="Quoted BC/BR" dsc="2" />
+      <bdata>
+        <sbdate ccalendar="g" iyear="1900" imonth="5" iday="23">1900/05/23</sbdate>
+        <sbdate_dmy>23 May 1900</sbdate_dmy>
+        <sbtime sbtime_ampm="8:30 PM" ctimetype="s" stimetype="standard time" stmerid="h1e" ctzauto="a" jd_ut="2415163.312500" sznabbr="MET">20:30</sbtime>
+        <place slati="49n03" slong="8e24">Karlsruhe</place>
+        <country sctr="GER">Germany</country>
+        <positions sun_sign="gem" sun_degmin="02°10" moon_sign="pis" moon_degmin="28°17" asc_sign="sag" asc_degmin="06°46" />
+      </bdata>
+      <scollector>Gauquelin</scollector>
+      <seditor>LMR</seditor>
+      <sbiographer>lmr</sbiographer>
+      <screationdate>1996/12/08</screationdate>
+      <slasteditdate>2016/03/13</slasteditdate>
+    </public_data>
+    <text_data>
+      <shortbiography copyright="© Astrodienst AG / Astrodatabank and © Wikipedia">German head of the Nazi Law Department and legal counsel to Hitler.  He joined ...</shortbiography>
+      <wikipedia_link>https://en.wikipedia.org/Hans_Frank</wikipedia_link>
+      <adb_link>http://www.astro.com/astro-databank/Frank%2C__Hans</adb_link>
+      <sourcenotes copyright="© Astrodienst AG / Astrodatabank">Gauquelin Vol. 5/1893\n</sourcenotes>
+    </text_data>
+    <research_data>
+      <categories count="6" note="© Astrodienst AG / Astrodatabank">
+        <category cat_id="288" adb_id="1045" catnotes="Hanged">Passions : Criminal Perpetrator : Executed</category>
+        <category cat_id="273" adb_id="1045" catnotes="Hitler regime">Passions : Criminal Perpetrator : Homicide many at once</category>
+        <category cat_id="294" adb_id="1045" catnotes="Cutting throat and wrists">Personal : Death : Suicide Attempt</category>
+        <category cat_id="445" adb_id="1045" catnotes="Nazi law department">Vocation : Law : Attorney</category>
+        <category cat_id="498" adb_id="1045" catnotes="Legal counselor to Hitler">Vocation : Politics : Nazi party</category>
+        <category cat_id="586" adb_id="1045" catnotes="42 journals">Vocation : Writers : Textbook/ Non-fiction</category>
+      </categories>
+      <events count="2" note="© Astrodienst AG / Astrodatabank">
+        <event sevcode="Crime : Trial dates" evn_id="1930" adb_id="1045" evnotes="Found guilty of war crimes">
+          <event_data>
+            <sbdate ccalendar="g" iyear="1946" imonth="10" iday="01">1946/10/01</sbdate>
+            <sbdate_dmy>1 October 1946</sbdate_dmy>
+          </event_data>
+        </event>
+        <event sevcode="Death by Execution" evn_id="767" adb_id="1045" evnotes="Hanged">
+          <event_data>
+            <sbdate ccalendar="g" iyear="1946" imonth="10" iday="16">1946/10/16</sbdate>
+            <sbdate_dmy>16 October 1946</sbdate_dmy>
+          </event_data>
+        </event>
+      </events>
+    </research_data>
+  </adb_entry>
+
+  <adb_entry adb_id="1046">
+    <update_timestamp itst="1463557845">2016-05-18T07:50:45Z</update_timestamp>
+    <public_data>
+      <name>Frank, Walter</name>
+      <sflname>Walter Frank</sflname>
+      <gender csex="m">M</gender>
+      <roddenrating rrc="1">AA</roddenrating>
+      <datatype sdatatype="Public Figure" dtc="1" sdatasource="BC/BR in hand" dsc="1" />
+      <bdata>
+        <sbdate ccalendar="g" iyear="1905" imonth="2" iday="12">1905/02/12</sbdate>
+        <sbdate_dmy>12 February 1905</sbdate_dmy>
+        <sbtime sbtime_ampm="11:30 AM" ctimetype="s" stimetype="standard time" stmerid="h1e" ctzauto="a" jd_ut="2416888.937500" sznabbr="MET">11:30</sbtime>
+        <place slati="49n28" slong="10e59">Fürth</place>
+        <country sctr="GER">Germany</country>
+        <positions sun_sign="aqu" sun_degmin="23°04" moon_sign="tau" moon_degmin="20°20" asc_sign="gem" asc_degmin="10°04" />
+      </bdata>
+      <scollector>Steinbrecher</scollector>
+      <seditor>LMR</seditor>
+      <sbiographer>lmr</sbiographer>
+      <screationdate>1996/12/08</screationdate>
+      <slasteditdate>2016/05/18</slasteditdate>
+    </public_data>
+    <text_data>
+      <shortbiography copyright="© Astrodienst AG / Astrodatabank and © Wikipedia">German Nazi  ideologist and a dynamic powerful speaker, he was also the editor ...</shortbiography>
+      <wikipedia_link>https://en.wikipedia.org/Walter_Frank</wikipedia_link>
+      <adb_link>http://www.astro.com/astro-databank/Frank%2C_Walter</adb_link>
+      <sourcenotes copyright="© Astrodienst AG / Astrodatabank">B.C. in hand from Steinbrecher\n</sourcenotes>
+    </text_data>
+    <research_data>
+      <categories count="5" note="© Astrodienst AG / Astrodatabank">
+        <category cat_id="293" adb_id="1046">Personal : Death : Suicide</category>
+        <category cat_id="498" adb_id="1046">Vocation : Politics : Nazi party</category>
+        <category cat_id="584" adb_id="1046" catnotes="Editor of propaganda publications">Vocation : Writers : Publisher/ Editor</category>
+        <category cat_id="586" adb_id="1046">Vocation : Writers : Textbook/ Non-fiction</category>
+        <category cat_id="635" adb_id="1046">Notable : Book Collection : Crime Collection</category>
+      </categories>
+      <events count="2" note="© Astrodienst AG / Astrodatabank">
+        <event sevcode="Work : Gain social status" evn_id="820" adb_id="1046" evnotes="Appointed President of Institute">
+          <event_data>
+            <sbdate ccalendar="g" iyear="1936" imonth="04" iday="01">1936/04/01</sbdate>
+            <sbdate_dmy>1 April 1936</sbdate_dmy>
+          </event_data>
+        </event>
+        <event sevcode="Death by Suicide" evn_id="770" adb_id="1046" evnotes="Age 40">
+          <event_data>
+            <sbdate ccalendar="g" iyear="1945" imonth="05" iday="09">1945/05/09</sbdate>
+            <sbdate_dmy>9 May 1945</sbdate_dmy>
+          </event_data>
+        </event>
+      </events>
+    </research_data>
+  </adb_entry>
+
+
+  <adb_entry adb_id="1048">
+    <update_timestamp itst="1246060800">2009-06-27T00:00:00Z</update_timestamp>
+    <public_data>
+      <name>Freisler, Roland</name>
+      <sflname>Roland Freisler</sflname>
+      <birthname>Freisler, Carl Roland</birthname>
+      <gender csex="m">M</gender>
+      <roddenrating rrc="1">AA</roddenrating>
+      <datatype sdatatype="Public Figure" dtc="1" sdatasource="Quoted BC/BR" dsc="2" />
+      <bdata>
+        <sbdate ccalendar="g" iyear="1893" imonth="10" iday="30">1893/10/30</sbdate>
+        <sbdate_dmy>30 October 1893</sbdate_dmy>
+        <sbtime sbtime_ampm="4:45 PM" ctimetype="s" stimetype="standard time" stmerid="h1e" ctzauto="u" jd_ut="2412767.156250" sznabbr="MET">16:45</sbtime>
+        <place slati="52n37" slong="10e05">Celle</place>
+        <country sctr="">Germany</country>
+        <positions sun_sign="sco" sun_degmin="07°28" moon_sign="can" moon_degmin="20°37" asc_sign="tau" asc_degmin="06°23" />
+      </bdata>
+      <scollector>Taeger</scollector>
+      <seditor>LMR</seditor>
+      <sbiographer>lmr</sbiographer>
+      <screationdate>1996/12/08</screationdate>
+      <slasteditdate>2009/06/27</slasteditdate>
+    </public_data>
+    <text_data>
+      <shortbiography copyright="© Astrodienst AG / Astrodatabank and © Wikipedia">German lawyer, a member of the Nazi Party and President of the People's Court ...</shortbiography>
+      <wikipedia_link>https://en.wikipedia.org/Roland_Freisler</wikipedia_link>
+      <adb_link>http://www.astro.com/astro-databank/Freisler%2C_Roland</adb_link>
+      <sourcenotes copyright="© Astrodienst AG / Astrodatabank">Hans Taeger quotes B.C. in hand (Gauquelin gave 3:00 PM MET)\n</sourcenotes>
+    </text_data>
+    <research_data>
+      <categories count="4" note="© Astrodienst AG / Astrodatabank">
+        <category cat_id="13" adb_id="1048" catnotes="Fatal air raid">Diagnoses : Body Part Problems : Accident/Injury</category>
+        <category cat_id="445" adb_id="1048">Vocation : Law : Attorney</category>
+        <category cat_id="446" adb_id="1048" catnotes="Called a hanging judge">Vocation : Law : Jurist</category>
+        <category cat_id="498" adb_id="1048">Vocation : Politics : Nazi party</category>
+      </categories>
+      <events count="1" note="© Astrodienst AG / Astrodatabank">
+        <event sevcode="Death by Accident" evn_id="764" adb_id="1048" evnotes="Died in an air raid while at work, age 51">
+          <event_data>
+            <sbdate ccalendar="g" iyear="1945" imonth="02" iday="03">1945/02/03</sbdate>
+            <sbdate_dmy>3 February 1945</sbdate_dmy>
+          </event_data>
+        </event>
+      </events>
+    </research_data>
+  </adb_entry>
+
+  <adb_entry adb_id="1049">
+    <update_timestamp itst="1385550748">2013-11-27T11:12:28Z</update_timestamp>
+    <public_data>
+      <name>Frere, Aubert</name>
+      <sflname>Aubert Frere</sflname>
+      <gender csex="m">M</gender>
+      <roddenrating rrc="1">AA</roddenrating>
+      <datatype sdatatype="Public Figure" dtc="1" sdatasource="Quoted BC/BR" dsc="2" />
+      <bdata>
+        <sbdate ccalendar="g" iyear="1881" imonth="8" iday="21">1881/08/21</sbdate>
+        <sbdate_dmy>21 August 1881</sbdate_dmy>
+        <sbtime sbtime_ampm="05:00 AM" ctimetype="l" stimetype="local mean time" stmerid="m2e49" ctzauto="u" jd_ut="2408313.700509" sznabbr="LMT">05:00</sbtime>
+        <place slati="50n06" slong="2e49">Grevillers</place>
+        <country sctr="">France</country>
+        <positions sun_sign="leo" sun_degmin="28°14" moon_sign="can" moon_degmin="18°16" asc_sign="leo" asc_degmin="27°36" />
+      </bdata>
+      <scollector>Gauquelin</scollector>
+      <seditor>LMR</seditor>
+      <sbiographer>lmr</sbiographer>
+      <screationdate>1996/12/08</screationdate>
+      <slasteditdate>2013/11/27</slasteditdate>
+    </public_data>
+    <text_data>
+      <shortbiography copyright="© Astrodienst AG / Astrodatabank and © Wikipedia">French military commander, the General who helped found a resistance ...</shortbiography>
+      <wikipedia_link>https://fr.wikipedia.org/Aubert_Frère</wikipedia_link>
+      <adb_link>http://www.astro.com/astro-databank/Frere%2C_Aubert</adb_link>
+      <sourcenotes copyright="© Astrodienst AG / Astrodatabank">Gauquelin Vol. 3/555\n</sourcenotes>
+    </text_data>
+    <research_data>
+      <categories count="5" note="© Astrodienst AG / Astrodatabank">
+        <category cat_id="268" adb_id="1049" catnotes="Struthof">Passions : Criminal Victim : Concentration camp</category>
+        <category cat_id="276" adb_id="1049" catnotes="In German prison">Passions : Criminal Victim : Homicide victim</category>
+        <category cat_id="478" adb_id="1049">Vocation : Military : Military career</category>
+        <category cat_id="492" adb_id="1049">Vocation : Politics : Activist/ political</category>
+        <category cat_id="635" adb_id="1049">Notable : Book Collection : Crime Collection</category>
+      </categories>
+      <events count="1" note="© Astrodienst AG / Astrodatabank">
+        <event sevcode="Death by War or Terrorism" evn_id="1012" adb_id="1049" evnotes="Nazi concentration camp, age 62">
+          <event_data>
+            <sbdate ccalendar="g" iyear="1944" imonth="06" iday="13">1944/06/13</sbdate>
+            <sbdate_dmy>13 June 1944</sbdate_dmy>
+          </event_data>
+        </event>
+      </events>
+    </research_data>
+  </adb_entry>
+
+  <adb_entry adb_id="1050">
+    <update_timestamp itst="1430905415">2015-05-06T09:43:35Z</update_timestamp>
+    <public_data>
+      <name>Frérot, Max</name>
+      <sflname>Max Frérot</sflname>
+      <birthname>Maxime Jacques Frérot</birthname>
+      <gender csex="m">M</gender>
+      <roddenrating rrc="1">AA</roddenrating>
+      <datatype sdatatype="Public Figure" dtc="1" sdatasource="BC/BR in hand" dsc="1" />
+      <bdata>
+        <sbdate ccalendar="g" iyear="1956" imonth="7" iday="13">1956/07/13</sbdate>
+        <sbdate_dmy>13 July 1956</sbdate_dmy>
+        <sbtime sbtime_ampm="10:55 AM" ctimetype="s" stimetype="standard time" stmerid="h1e" ctzauto="a" jd_ut="2435667.913194" sznabbr="MET">10:55</sbtime>
+        <place slati="47n06" slong="5e30">Dole</place>
+        <country sctr="FR">France</country>
+        <positions sun_sign="can" sun_degmin="20°58" moon_sign="lib" moon_degmin="02°53" asc_sign="vir" asc_degmin="26°40" />
+      </bdata>
+      <scollector>Geslain</scollector>
+      <seditor>LMR sco</seditor>
+      <sbiographer>lmr</sbiographer>
+      <screationdate>1996/12/08</screationdate>
+      <slasteditdate>2015/05/06</slasteditdate>
+    </public_data>
+    <text_data>
+      <shortbiography copyright="© Astrodienst AG / Astrodatabank and © Wikipedia">French terrorist and part of the Direct Action Group.  He became the Public ...</shortbiography>
+      <wikipedia_link>https://fr.wikipedia.org/Affiche_rouge_(groupe_armé)</wikipedia_link>
+      <adb_link>http://www.astro.com/astro-databank/Fr%C3%A9rot%2C_Max</adb_link>
+      <sourcenotes copyright="© Astrodienst AG / Astrodatabank">Didier Geslain archive, 'f' pdf file, p. 125.\nSame data from: Bordoni quotes Astrologue, Vol 4.\n</sourcenotes>
+    </text_data>
+    <research_data>
+      <categories count="2" note="© Astrodienst AG / Astrodatabank">
+        <category cat_id="267" adb_id="1050" catnotes="&quot;Direct Action Group&quot;">Passions : Criminal Perpetrator : Civil/ Political</category>
+        <category cat_id="285" adb_id="1050" catnotes="Public Enemy No. 1 in France">Passions : Criminal Perpetrator : Terrorist</category>
+      </categories>
+    </research_data>
+  </adb_entry>
+
+  <adb_entry_count count="36" />
+</astrodatabank_export>
