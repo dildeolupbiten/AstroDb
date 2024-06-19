@@ -51,5 +51,4 @@
 #include <sstream>
 #include <filesystem>
 #include <iomanip>
-#include <cstdlib>
 #include "../lib/rapidxml/rapidxml_utils.hpp"
