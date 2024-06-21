@@ -97,7 +97,7 @@ void init_PLANETS() {
     insert<str, int>(PLANETS, "Jupiter", 5);
     insert<str, int>(PLANETS, "Saturn", 6);
     insert<str, int>(PLANETS, "Uranus", 7);
-    insert<str, int>(PLANETS, "Neptune", 7);
+    insert<str, int>(PLANETS, "Neptune", 8);
     insert<str, int>(PLANETS, "Pluto", 9);
     insert<str, int>(PLANETS, "Mean Node", 11);
     insert<str, int>(PLANETS, "True Node", 10);
