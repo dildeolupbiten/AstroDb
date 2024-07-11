@@ -18,14 +18,6 @@ At the end of the analysis process, the results that are related to the selected
 
 ## Screenshots
 
-### Linux
-
 ![linux_1](https://github.com/dildeolupbiten/AstroDb/assets/29302909/c04d53cc-5994-4818-a52a-b5ccd5142244)
 ![linux_2](https://github.com/dildeolupbiten/AstroDb/assets/29302909/9617ea56-45c3-48d3-82d9-cad89cfa6c81)
 ![linux_3](https://github.com/dildeolupbiten/AstroDb/assets/29302909/40172313-2971-4cc9-b4e0-323a24d5b1aa)
-
-### Windows
-
-![windows_1](https://github.com/dildeolupbiten/AstroDb/assets/29302909/6cc1ad9a-88d9-472e-92c5-3d89a06cb064)
-![windows_2](https://github.com/dildeolupbiten/AstroDb/assets/29302909/45ebb160-1fad-4b23-b300-69aa6bd4b1bf)
-![windows_3](https://github.com/dildeolupbiten/AstroDb/assets/29302909/34f37e89-05b8-49bd-9d93-e5f23ab3b385)
