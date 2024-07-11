@@ -38,6 +38,7 @@
 #include <QMouseEvent>
 #include <QFontDatabase>
 #include <QSysInfo>
+#include <QStyleFactory>
 
 #include <vector>
 #include <string>
