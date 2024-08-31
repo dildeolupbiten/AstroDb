@@ -31,7 +31,6 @@
 #include <QDoubleSpinBox>
 #include <QProgressBar>
 #include <QList>
-#include <mutex>
 #include <QDir>
 #include <QPainter>
 #include <QPainterPath>
@@ -40,13 +39,13 @@
 #include <QSysInfo>
 #include <QStyleFactory>
 
+#include <mutex>
 #include <vector>
 #include <string>
 #include <cstdlib>
 #include <functional>
 #include <iostream>
 #include <algorithm>
-#include <functional>
 #include <cmath>
 #include <fstream>
 #include <sstream>
