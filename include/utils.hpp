@@ -184,7 +184,7 @@ std::function<T> selectCalc(str type, str method, double alpha) {
     }
     else if (type == "Calculate Chi-Square Values") {
         return [](double x1, double x2, double n1, double n2){
-            return x2 ? pow(x1 - x2, .5) / x2 : 0;
+            return x2 ? pow(x1 - x2, 2) / x2 : 0;
         };
     }
     else if (type == "Calculate Cohen's D Values") {
